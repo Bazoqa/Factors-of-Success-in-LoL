@@ -1,0 +1,621 @@
+id,version,side,win,ban1,ban2,ban3,ban4,ban5,champion1,champion2,champion3,champion4,champion5,tower_kills,inhibitor_kills,dragon_kills,rift_herald_kills,baron_kills,first_tower,first_inhibitor,first_dragon,first_rift_herald,first_baron
+3320843999,10.5.312.392,blue,True,Diana,Katarina,Blitzcrank,Fiora,Ekko,Ezreal,Fizz,Jarvan IV,Nami,Mordekaiser,8,1,2,0,1,True,True,False,False,True
+3320843999,10.5.312.392,red,False,Yasuo,Ekko,Sylas,Yuumi,Darius,Rek'Sai,Ornn,Kai'Sa,LeBlanc,Braum,2,0,1,1,0,False,False,True,True,False
+3320843998,10.5.312.392,blue,False,Yasuo,Sett,Rammus,Morgana,Ornn,Ahri,Ezreal,Trundle,Renekton,Heimerdinger,0,0,0,0,0,False,False,False,False,False
+3320843998,10.5.312.392,red,True,Ekko,Shaco,Mordekaiser,Master Yi,Sett,Garen,Vladimir,Caitlyn,Senna,Kayn,9,2,2,0,0,True,True,True,False,False
+3320843997,10.5.312.392,blue,False,Blitzcrank,Varus,Sett,Master Yi,,Lux,Jinx,Rakan,Sylas,Olaf,4,0,2,0,0,True,False,False,False,False
+3320843997,10.5.312.392,red,True,Caitlyn,Ornn,Darius,Master Yi,Blitzcrank,Nami,Graves,Yorick,Ekko,Lucian,8,2,2,1,0,False,True,True,True,False
+3320843994,10.5.312.392,blue,True,Blitzcrank,Ahri,Master Yi,Sett,Ornn,Ashe,Morgana,Trundle,Camille,Mordekaiser,3,0,2,0,0,True,False,True,False,False
+3320843994,10.5.312.392,red,False,Malzahar,Blitzcrank,Ekko,Caitlyn,,Aphelios,Senna,Shaco,LeBlanc,Tryndamere,0,0,0,0,0,False,False,False,False,False
+3320843993,10.5.312.392,blue,True,Yasuo,Fiora,Ekko,Sett,Evelynn,Karma,Senna,Tahm Kench,Qiyana,Shaco,0,0,0,0,0,False,False,False,False,False
+3320843993,10.5.312.392,red,False,Yasuo,Pyke,Master Yi,Caitlyn,Zilean,Gragas,Heimerdinger,Lucian,Leona,Yorick,0,0,0,0,0,False,False,False,False,False
+3320843990,10.5.312.392,blue,True,Pyke,Master Yi,Lee Sin,Blitzcrank,Darius,Yasuo,Veigar,Miss Fortune,Warwick,Gangplank,10,2,2,0,1,True,True,True,False,True
+3320843990,10.5.312.392,red,False,Renekton,Ashe,Jhin,Jax,Diana,Sett,Ezreal,Fizz,Morgana,Kayn,1,0,2,0,0,False,False,False,False,False
+3320843983,10.5.312.392,blue,True,Sett,Janna,Senna,Ekko,Warwick,Zed,Teemo,Kai'Sa,Malphite,Sona,11,4,4,1,1,True,True,True,True,True
+3320843983,10.5.312.392,red,False,Master Yi,Sett,Caitlyn,Braum,Malzahar,Shaco,Ashe,Rammus,Yasuo,Blitzcrank,0,0,0,0,0,False,False,False,False,False
+3320843976,10.5.312.392,blue,True,Blitzcrank,Illaoi,Aphelios,LeBlanc,Nautilus,Amumu,Brand,Darius,Zilean,Ashe,8,1,3,1,1,True,True,True,True,True
+3320843976,10.5.312.392,red,False,Blitzcrank,Malzahar,Aphelios,Master Yi,Mordekaiser,Jhin,Tahm Kench,Trundle,Annie,Cho'Gath,0,0,0,0,0,False,False,False,False,False
+3320843973,10.5.312.392,blue,True,Draven,Leona,Amumu,Fizz,Aatrox,Mordekaiser,Lulu,Kog'Maw,Morgana,Master Yi,5,0,2,2,0,True,False,True,True,False
+3320843973,10.5.312.392,red,False,Aphelios,Katarina,Sett,Blitzcrank,Darius,Sylas,Veigar,Tryndamere,Sona,Ezreal,1,0,0,0,0,False,False,False,False,False
+3320843966,10.5.312.392,blue,True,Sett,Ekko,Zed,Zyra,Yasuo,Master Yi,Teemo,Ezreal,Lux,Malzahar,11,2,4,1,1,False,True,False,True,True
+3320843966,10.5.312.392,red,False,Kai'Sa,Senna,Aphelios,Nautilus,Zac,Fiddlesticks,Jhin,Cho'Gath,Tryndamere,Graves,5,0,1,0,1,True,False,True,False,False
+3320843961,10.5.312.392,blue,False,Yasuo,Aatrox,Master Yi,Aphelios,Leona,Tristana,Soraka,Teemo,Irelia,Sejuani,2,0,0,2,0,True,False,False,True,False
+3320843961,10.5.312.392,red,True,Nautilus,Yasuo,Vayne,Jax,Shaco,Warwick,Ashe,Morgana,Darius,Urgot,11,3,5,0,0,False,True,True,False,False
+3320843952,10.5.312.392,blue,True,,Mordekaiser,Zac,Aphelios,Kassadin,Lucian,Leona,Udyr,Urgot,Ekko,10,2,4,2,1,True,True,True,True,True
+3320843952,10.5.312.392,red,False,Pyke,Blitzcrank,Yuumi,Zoe,Garen,Vel'Koz,Sett,Veigar,Ezreal,Janna,1,0,0,0,0,False,False,False,False,False
+3320843951,10.5.312.392,blue,False,,Taric,Master Yi,Darius,,Sett,Nami,Jarvan IV,Jhin,Nautilus,0,0,0,0,0,False,False,False,False,False
+3320843951,10.5.312.392,red,True,Evelynn,Yasuo,Veigar,Ekko,Malzahar,Renekton,Ashe,Morgana,Warwick,Annie,11,4,5,2,2,True,True,True,True,True
+3320843945,10.5.312.392,blue,False,Aphelios,Soraka,Yasuo,Senna,Olaf,Blitzcrank,Miss Fortune,Syndra,Ornn,Elise,9,1,2,0,2,False,True,True,False,True
+3320843945,10.5.312.392,red,True,Lee Sin,Master Yi,Mordekaiser,Leona,Aphelios,Tahm Kench,Caitlyn,Jarvan IV,Diana,Vladimir,7,1,2,2,0,True,False,False,True,False
+3320843942,10.5.312.392,blue,True,Sett,Diana,Ornn,Warwick,Yasuo,Miss Fortune,Fizz,Fiora,Amumu,Rakan,9,1,2,2,0,True,True,True,True,False
+3320843942,10.5.312.392,red,False,Darius,Master Yi,Senna,Leona,Teemo,Nami,Tryndamere,Pyke,Jax,Lucian,2,0,3,0,1,False,False,False,False,True
+3320843938,10.5.312.392,blue,False,Nautilus,Renekton,Illaoi,Master Yi,Fizz,Aphelios,Aatrox,Graves,Janna,Ekko,3,0,2,2,0,True,False,True,True,False
+3320843938,10.5.312.392,red,True,Diana,Garen,Leona,Katarina,Darius,Taliyah,Fiora,Vayne,Yuumi,Amumu,8,1,3,0,0,False,True,False,False,False
+3320843935,10.5.312.392,blue,True,Garen,Nautilus,Sett,Vladimir,Blitzcrank,Teemo,Caitlyn,Warwick,Camille,Katarina,4,0,3,2,1,False,False,True,True,True
+3320843935,10.5.312.392,red,False,Senna,Sett,Yasuo,Blitzcrank,Mordekaiser,Renekton,Lee Sin,Nami,Ahri,Ezreal,3,0,0,0,0,True,False,False,False,False
+3320843930,10.5.312.392,blue,True,Morgana,Quinn,Ekko,Lee Sin,Zed,Nautilus,Ezreal,Riven,Yasuo,Warwick,7,2,3,1,0,True,True,True,True,False
+3320843930,10.5.312.392,red,False,Senna,Sett,Katarina,Diana,Aphelios,Draven,Fizz,Gangplank,Dr. Mundo,Sona,0,0,0,0,0,False,False,False,False,False
+3320843929,10.5.312.392,blue,True,Master Yi,Aphelios,Yasuo,Kayn,Fizz,Garen,Draven,Lucian,Ivern,Tahm Kench,10,2,2,0,0,True,True,False,False,False
+3320843929,10.5.312.392,red,False,Sett,Pyke,Kassadin,Shaco,Darius,Olaf,Quinn,Ekko,Caitlyn,Leona,0,0,1,0,0,False,False,True,False,False
+3320843925,10.5.312.392,blue,True,Vladimir,Vayne,Shaco,Blitzcrank,Pyke,Darius,Fizz,Cho'Gath,Lux,Jhin,8,1,2,0,1,False,True,False,False,True
+3320843925,10.5.312.392,red,False,Caitlyn,Senna,Akali,Mordekaiser,Sett,Taric,Kog'Maw,Garen,Tryndamere,Kayle,6,0,2,2,0,True,False,True,True,False
+3320843918,10.5.312.392,blue,False,Blitzcrank,Nocturne,Zed,Sett,Brand,Maokai,Mordekaiser,Nasus,Jax,Ashe,1,0,0,1,0,False,False,False,True,False
+3320843918,10.5.312.392,red,True,Tristana,Garen,Aurelion Sol,Warwick,Morgana,Jhin,Vladimir,Nami,Kayn,Teemo,10,2,4,1,0,True,True,True,False,False
+3320843913,10.5.312.392,blue,True,Sett,Senna,Master Yi,Yasuo,Diana,Neeko,Nami,Elise,Zed,Sion,1,0,1,0,0,True,False,False,False,False
+3320843913,10.5.312.392,red,False,Yasuo,Morgana,Draven,Sett,Ekko,Ahri,Renekton,Nautilus,Jhin,Lee Sin,0,0,1,0,0,False,False,True,False,False
+3320843906,10.5.312.392,blue,True,Morgana,Mordekaiser,Warwick,Leona,Rammus,Sett,Vel'Koz,Ezreal,Diana,Senna,11,3,3,1,0,True,True,False,True,False
+3320843906,10.5.312.392,red,False,Pyke,Darius,Tristana,Nunu & Willump,Udyr,Lux,Caitlyn,Jarvan IV,Shaco,Aatrox,4,0,1,0,0,False,False,True,False,False
+3320843903,10.5.312.392,blue,True,Aphelios,Mordekaiser,Senna,Kayn,Olaf,Warwick,Teemo,Sona,Xerath,Ashe,11,3,3,0,0,False,True,False,False,False
+3320843903,10.5.312.392,red,False,Miss Fortune,Fizz,Mordekaiser,Ezreal,Garen,Yasuo,Caitlyn,Amumu,Darius,Leona,4,0,2,2,1,True,False,True,True,True
+3320843902,10.5.312.392,blue,False,Yasuo,Thresh,Aatrox,Leona,Darius,Senna,Aphelios,Anivia,Shyvana,Tryndamere,3,0,0,2,0,False,False,False,True,False
+3320843902,10.5.312.392,red,True,Morgana,Zed,Lux,Nasus,Master Yi,Ahri,Ornn,Warwick,Jinx,Soraka,8,1,5,0,0,True,True,True,False,False
+3320843901,10.5.312.392,blue,False,Diana,Master Yi,Nautilus,Zoe,Senna,Katarina,Irelia,Aphelios,Yuumi,Dr. Mundo,0,0,0,0,0,False,False,False,False,False
+3320843901,10.5.312.392,red,True,Jax,Blitzcrank,Master Yi,Kayn,Sett,Ahri,Jinx,Pyke,Malphite,Mordekaiser,7,1,2,1,0,True,True,True,True,False
+3320843898,10.5.312.392,blue,True,Aphelios,Lee Sin,Master Yi,Evelynn,Lucian,Ekko,Caitlyn,Lulu,Elise,Jax,11,4,2,2,1,True,True,False,True,True
+3320843898,10.5.312.392,red,False,Fiora,Yuumi,Vladimir,Karthus,Master Yi,Pyke,Kai'Sa,Kha'Zix,Janna,Kled,0,0,2,0,0,False,False,True,False,False
+3320843897,10.5.312.392,blue,False,Brand,Leona,Illaoi,Darius,Katarina,Olaf,Ornn,Yasuo,Alistar,Taliyah,2,0,1,0,0,False,False,False,False,False
+3320843897,10.5.312.392,red,True,Soraka,Aphelios,Lux,Fiora,Nautilus,Lissandra,Master Yi,Sett,Senna,Swain,7,1,2,1,1,True,True,True,True,True
+3320843892,10.5.312.392,blue,False,Zed,Leona,Nautilus,Mordekaiser,Rakan,Pantheon,Thresh,Tryndamere,Lucian,Zac,5,0,3,1,0,True,False,True,True,False
+3320843892,10.5.312.392,red,True,Ekko,,Senna,Shaco,Jax,Caitlyn,Pyke,Yasuo,Sett,Darius,7,1,1,0,0,False,True,False,False,False
+3320843878,10.5.312.392,blue,False,Shaco,Ekko,Blitzcrank,Aphelios,,Miss Fortune,Elise,Nautilus,Kled,Viktor,5,0,0,1,0,True,False,False,False,False
+3320843878,10.5.312.392,red,True,Malzahar,Sett,Caitlyn,Blitzcrank,Darius,Yasuo,Shen,Master Yi,Lux,Fizz,8,1,4,1,1,False,True,True,True,True
+3320843875,10.5.312.392,blue,False,Miss Fortune,Zed,Kassadin,Leona,Lee Sin,Veigar,Yasuo,Warwick,Kalista,Thresh,4,0,3,1,0,False,False,True,True,False
+3320843875,10.5.312.392,red,True,Lux,Ezreal,Pantheon,Aphelios,Darius,Volibear,Renekton,Kai'Sa,Fizz,Janna,10,1,2,0,1,True,True,False,False,True
+3320843874,10.5.312.392,blue,False,Thresh,Senna,,Fizz,Sett,Zyra,Jax,Aphelios,Lee Sin,Zed,6,0,1,1,0,True,False,True,True,False
+3320843874,10.5.312.392,red,True,Tryndamere,Vladimir,Yasuo,Thresh,Master Yi,Karthus,Aatrox,Galio,Pyke,Ezreal,9,2,5,0,1,False,True,False,False,True
+3320843863,10.5.312.392,blue,True,Fizz,Nocturne,Mordekaiser,Thresh,Soraka,Udyr,Qiyana,Garen,Varus,Blitzcrank,5,0,1,1,0,False,False,False,True,False
+3320843863,10.5.312.392,red,False,Aphelios,Fiora,Master Yi,Sett,Brand,Morgana,Yasuo,Amumu,Ornn,Vayne,3,0,2,0,0,True,False,True,False,False
+3320843856,10.5.312.392,blue,True,Fizz,Jax,Yasuo,Vladimir,Kassadin,Ezreal,Cassiopeia,Jarvan IV,Darius,Senna,10,1,3,1,0,True,True,True,True,False
+3320843856,10.5.312.392,red,False,Pyke,Yasuo,Nautilus,Master Yi,Lee Sin,Ashe,Zed,Vel'Koz,Ornn,Diana,3,0,2,0,1,False,False,False,False,True
+3320843853,10.5.312.392,blue,True,Master Yi,Mordekaiser,Garen,Yasuo,Aphelios,Lux,Poppy,Zed,Miss Fortune,Vladimir,11,3,3,2,1,True,True,True,True,True
+3320843853,10.5.312.392,red,False,Darius,Ekko,Aphelios,Yasuo,Sett,Diana,Yuumi,Ezreal,Gnar,Pantheon,0,0,0,0,0,False,False,False,False,False
+3320843847,10.5.312.392,blue,False,Yasuo,Sett,Darius,Nautilus,Amumu,Nunu & Willump,Thresh,Senna,Volibear,Twisted Fate,3,0,2,1,1,True,False,True,True,True
+3320843847,10.5.312.392,red,True,Lee Sin,Lux,Illaoi,Zed,Yasuo,Kayn,Malphite,Malzahar,Leona,Veigar,9,2,3,0,0,False,True,False,False,False
+3320843843,10.5.312.392,blue,False,Master Yi,Kassadin,Yasuo,Senna,Pyke,Kalista,Cho'Gath,Veigar,Kayn,Nasus,0,0,3,0,0,False,False,True,False,False
+3320843843,10.5.312.392,red,True,Leona,Malzahar,Darius,Miss Fortune,Vayne,Garen,Twisted Fate,Sett,Tristana,Lulu,5,0,0,1,0,True,False,False,True,False
+3320843836,10.5.312.392,blue,True,Vladimir,Olaf,Lee Sin,Kennen,Shaco,Talon,Rakan,Elise,Nasus,Lucian,10,2,2,1,0,True,True,True,True,False
+3320843836,10.5.312.392,red,False,Blitzcrank,Master Yi,Garen,Diana,Pyke,Qiyana,Fiora,Malphite,Ashe,Senna,2,0,1,0,0,False,False,False,False,False
+3320843835,10.5.312.392,blue,False,Leona,Caitlyn,Darius,Kayn,Senna,Jax,Nami,Rengar,Warwick,Kassadin,2,0,1,1,0,False,False,True,True,False
+3320843835,10.5.312.392,red,True,Master Yi,Nautilus,Lee Sin,Garen,Zed,Shen,Vel'Koz,Lucian,Yasuo,Vi,10,2,2,0,1,True,True,False,False,True
+3320843816,10.5.312.392,blue,True,LeBlanc,Nautilus,Tryndamere,Renekton,Thresh,Pyke,Ziggs,Kayn,Yasuo,Vayne,10,2,2,2,1,True,True,False,True,True
+3320843816,10.5.312.392,red,False,Teemo,Sylas,Master Yi,Blitzcrank,Morgana,Rumble,Jax,Aphelios,Sona,Garen,4,0,3,0,0,False,False,True,False,False
+3320843811,10.5.312.392,blue,False,Darius,Sett,Yasuo,Katarina,Blitzcrank,Lissandra,Lux,Miss Fortune,Garen,Lee Sin,2,0,3,1,0,False,False,True,True,False
+3320843811,10.5.312.392,red,True,Yasuo,Blitzcrank,Darius,Pyke,Sett,Senna,Evelynn,Illaoi,Vel'Koz,Jinx,7,1,1,0,0,True,True,False,False,False
+3320843810,10.5.312.392,blue,True,Master Yi,Shaco,Miss Fortune,Urgot,Ahri,Caitlyn,Leona,Nocturne,Dr. Mundo,Ekko,8,1,2,0,1,False,True,False,False,True
+3320843810,10.5.312.392,red,False,Mordekaiser,,Lee Sin,Blitzcrank,Diana,Qiyana,Teemo,Jhin,Nami,Kindred,1,0,2,1,0,True,False,True,True,False
+3320843808,10.5.312.392,blue,True,Vayne,Lee Sin,Blitzcrank,Ashe,Diana,Ziggs,Mordekaiser,Miss Fortune,Sett,LeBlanc,7,1,4,2,0,True,True,True,True,False
+3320843808,10.5.312.392,red,False,Darius,Caitlyn,Senna,Ekko,Master Yi,Lux,Shyvana,Ornn,Yasuo,Jhin,3,0,0,0,0,False,False,False,False,False
+3320843802,10.5.312.392,blue,False,Morgana,Qiyana,Yasuo,Darius,Fiora,Nautilus,Twitch,Lucian,Garen,Sejuani,4,0,2,1,0,True,False,True,True,False
+3320843802,10.5.312.392,red,True,Anivia,Talon,Aphelios,Morgana,Darius,Kassadin,Sivir,Sett,Braum,Jarvan IV,10,2,1,0,1,False,True,False,False,True
+3320843795,10.5.312.392,blue,True,Kassadin,Garen,,Ekko,Master Yi,Olaf,Renekton,Ashe,Brand,LeBlanc,7,1,4,1,1,True,True,True,True,True
+3320843795,10.5.312.392,red,False,Teemo,Zed,Yuumi,Shaco,Caitlyn,Sett,Karthus,Warwick,Ezreal,Soraka,3,0,1,1,0,False,False,False,False,False
+3320843792,10.5.312.392,blue,True,Darius,Blitzcrank,Talon,Warwick,Caitlyn,Garen,Nami,Kog'Maw,Sett,Veigar,11,3,3,2,1,True,True,True,True,True
+3320843792,10.5.312.392,red,False,Caitlyn,Yasuo,Morgana,Galio,Mordekaiser,Fizz,Renekton,Fiddlesticks,Ezreal,Pyke,0,0,1,0,0,False,False,False,False,False
+3320843787,10.5.312.392,blue,True,Gnar,Garen,Sylas,Aphelios,Olaf,Lucian,Teemo,Malphite,Singed,Pyke,5,0,1,1,0,True,False,False,True,False
+3320843787,10.5.312.392,red,False,Shaco,Nautilus,Fizz,Vel'Koz,Talon,Lee Sin,Ornn,Morgana,Varus,Yasuo,0,0,1,0,0,False,False,True,False,False
+3320843785,10.5.312.392,blue,False,Darius,Yasuo,Teemo,Evelynn,Shyvana,Graves,Twisted Fate,Garen,Leona,Caitlyn,2,0,0,1,0,True,False,False,True,False
+3320843785,10.5.312.392,red,True,,Blitzcrank,Kayle,Lee Sin,Darius,Tryndamere,Fizz,Miss Fortune,Lulu,Sion,6,1,3,1,0,False,True,True,False,False
+3320843784,10.5.312.392,blue,False,Elise,Master Yi,Caitlyn,Senna,Shaco,Miss Fortune,Malzahar,Gangplank,Camille,Ekko,0,0,0,0,0,False,False,False,False,False
+3320843784,10.5.312.392,red,True,Qiyana,Veigar,Aphelios,Yasuo,Darius,Renekton,Nidalee,Jayce,Lulu,Kog'Maw,4,0,1,1,0,True,False,True,True,False
+3320843782,10.5.312.392,blue,True,Sett,Aphelios,Warwick,Master Yi,Darius,Kayle,Zac,Mordekaiser,Vayne,Alistar,11,2,3,2,1,True,True,True,True,True
+3320843782,10.5.312.392,red,False,Ekko,Viktor,Senna,Nautilus,Darius,Garen,Kayn,Yuumi,Draven,Annie,2,0,1,0,0,False,False,False,False,False
+3320843758,10.5.312.392,blue,True,Pyke,Aphelios,Senna,Sett,Cassiopeia,Sion,Olaf,Mordekaiser,Nautilus,Xayah,9,3,5,0,1,True,True,True,False,True
+3320843758,10.5.312.392,red,False,Elise,Fiora,Zed,Pyke,Blitzcrank,Darius,Leona,Vayne,Amumu,Vladimir,2,0,0,1,0,False,False,False,True,False
+3320843751,10.5.312.392,blue,True,Sett,Blitzcrank,Yasuo,Diana,Aphelios,Malphite,Leona,Qiyana,Zoe,Vayne,7,1,4,0,2,False,True,False,False,True
+3320843751,10.5.312.392,red,False,Renekton,Miss Fortune,Zed,Aphelios,Shaco,Nocturne,Morgana,Caitlyn,Lissandra,Darius,5,0,2,1,1,True,False,True,True,False
+3320843748,10.5.312.392,blue,False,Olaf,Shaco,Fizz,Zed,Aphelios,Ahri,Zac,Nami,Teemo,Kai'Sa,2,0,2,0,0,False,False,False,False,False
+3320843748,10.5.312.392,red,True,Aphelios,Kassadin,Garen,Ornn,Blitzcrank,Lee Sin,Irelia,Karma,Vladimir,Draven,10,2,3,0,0,True,True,True,False,False
+3320843742,10.5.312.392,blue,True,Warwick,Pyke,Caitlyn,Aphelios,Darius,Yasuo,Diana,Orianna,Garen,Jarvan IV,4,0,3,2,0,True,False,True,True,False
+3320843742,10.5.312.392,red,False,Caitlyn,Blitzcrank,Aphelios,Zed,Sett,Ezreal,Yuumi,Olaf,Ornn,Lux,1,0,0,0,0,False,False,False,False,False
+3320843741,10.5.312.392,blue,False,Qiyana,Sett,Master Yi,Ezreal,Ornn,Graves,Fiora,Veigar,Nautilus,Miss Fortune,1,0,1,0,0,False,False,True,False,False
+3320843741,10.5.312.392,red,True,Leona,Darius,Sett,Morgana,Tryndamere,Riven,Vladimir,Varus,Zyra,Elise,10,2,3,1,1,True,True,False,True,True
+3320843730,10.5.312.392,blue,True,Mordekaiser,Master Yi,Kassadin,Morgana,Yasuo,Sylas,Shen,Amumu,Caitlyn,Thresh,9,2,2,1,0,True,True,True,True,False
+3320843730,10.5.312.392,red,False,Veigar,Mordekaiser,Aphelios,Zoe,Master Yi,Miss Fortune,Rek'Sai,Ahri,Braum,Urgot,1,0,0,0,0,False,False,False,False,False
+3320843725,10.5.312.392,blue,True,Fizz,Mordekaiser,Shyvana,Vayne,Shaco,Diana,Katarina,Miss Fortune,Volibear,Morgana,10,1,3,1,1,True,True,False,True,True
+3320843725,10.5.312.392,red,False,Blitzcrank,Yasuo,Kayle,Master Yi,Nautilus,Soraka,Annie,Tristana,Darius,Rengar,1,0,1,0,0,False,False,True,False,False
+3320843720,10.5.312.392,blue,False,Sett,Draven,Zed,Aphelios,Darius,Yasuo,Gnar,Ashe,Veigar,Gragas,1,0,0,0,0,False,False,False,False,False
+3320843720,10.5.312.392,red,True,Master Yi,Vi,Zac,Garen,Nautilus,Lux,Fiora,Sivir,Vel'Koz,Shyvana,11,3,4,1,1,True,True,True,True,True
+3320843693,10.5.312.392,blue,True,Zed,Garen,Yasuo,Jax,,Shen,Shaco,Vi,Draven,Sylas,9,2,3,1,1,False,True,True,True,True
+3320843693,10.5.312.392,red,False,Kindred,Master Yi,,Gragas,Darius,Malphite,Xayah,Sett,Diana,Pantheon,5,0,0,0,0,True,False,False,False,False
+3320843685,10.5.312.392,blue,False,Yasuo,Jinx,Mordekaiser,Brand,Sett,Karma,Vi,Xayah,Qiyana,Fiora,4,0,2,0,0,True,False,True,False,False
+3320843685,10.5.312.392,red,True,Senna,Aphelios,Garen,Darius,Rammus,Master Yi,Morgana,Caitlyn,Annie,Shaco,8,2,2,1,1,False,True,False,True,True
+3320843678,10.5.312.392,blue,False,Twisted Fate,Senna,Yasuo,Sett,Aphelios,Master Yi,Kassadin,Kai'Sa,Lux,Irelia,0,0,0,0,0,False,False,False,False,False
+3320843678,10.5.312.392,red,True,Fizz,Draven,Morgana,Illaoi,Talon,Garen,Syndra,Blitzcrank,Trundle,Twitch,3,0,1,1,0,True,False,True,True,False
+3320843674,10.5.312.392,blue,True,Morgana,Jarvan IV,Master Yi,Vladimir,Fizz,Nunu & Willump,Nautilus,Lux,Teemo,Ezreal,10,1,4,0,0,True,False,False,False,False
+3320843674,10.5.312.392,red,False,Sett,Zed,Ashe,Aphelios,Leona,Cho'Gath,Jhin,Garen,Zoe,Senna,5,2,2,0,1,False,True,True,False,True
+3320843673,10.5.312.392,blue,True,Sett,Fizz,Yasuo,Garen,Master Yi,Pyke,Senna,Zed,Kayn,Mordekaiser,11,3,4,2,0,True,True,True,True,False
+3320843673,10.5.312.392,red,False,Malphite,Sylas,Caitlyn,Sett,Volibear,Tryndamere,Jhin,Ekko,Shaco,Lulu,0,0,0,0,0,False,False,False,False,False
+3320843662,10.5.312.392,blue,False,Ekko,Senna,Mordekaiser,Fiora,,Leona,Diana,Miss Fortune,Olaf,Aatrox,0,0,0,0,0,False,False,False,False,False
+3320843662,10.5.312.392,red,True,Blitzcrank,Nautilus,Zac,Mordekaiser,Warwick,Garen,Jinx,Graves,Lee Sin,Yuumi,11,3,3,2,0,True,True,True,True,False
+3320843650,10.5.312.392,blue,False,Senna,Ekko,Darius,Sett,Diana,Xerath,Kayn,Nami,Tryndamere,Ezreal,1,0,0,0,0,True,False,False,False,False
+3320843650,10.5.312.392,red,True,Sett,Darius,Diana,Morgana,Senna,Cassiopeia,Draven,Blitzcrank,Lee Sin,Shen,11,3,4,0,0,False,True,True,False,False
+3320843646,10.5.312.392,blue,False,Sett,Shen,Kassadin,Yuumi,Darius,Nocturne,Diana,Quinn,Senna,Lucian,2,0,0,0,0,False,False,False,False,False
+3320843646,10.5.312.392,red,True,Pyke,Mordekaiser,Elise,Tryndamere,Master Yi,Sejuani,Varus,Sylas,Renekton,Nautilus,6,1,3,1,1,True,True,True,True,True
+3320843644,10.5.312.392,blue,False,Master Yi,Morgana,Cho'Gath,Yasuo,Aphelios,Diana,Shaco,Malphite,Ashe,Nautilus,4,0,0,2,0,True,False,False,True,False
+3320843644,10.5.312.392,red,True,Darius,Morgana,Brand,Zed,Leona,LeBlanc,Vi,Karma,Ezreal,Garen,9,2,3,0,0,False,True,True,False,False
+3320843616,10.5.312.392,blue,False,Yuumi,Nautilus,Diana,Lee Sin,Sett,Kalista,Fiora,Maokai,Rengar,Akali,1,0,2,0,0,False,False,False,False,False
+3320843616,10.5.312.392,red,True,Pyke,Soraka,Elise,Malphite,Blitzcrank,Lux,Quinn,Ahri,Caitlyn,Yasuo,9,2,2,1,1,True,True,True,True,True
+3320843614,10.5.312.392,blue,True,Zed,Nidalee,Nautilus,Aphelios,Mordekaiser,Twisted Fate,Jhin,Taric,Shen,Jax,9,1,4,2,1,True,True,True,True,True
+3320843614,10.5.312.392,red,False,Zed,Sett,Warwick,Blitzcrank,Garen,Kayn,Zilean,Nasus,Ahri,Caitlyn,1,0,0,0,0,False,False,False,False,False
+3320843612,10.5.312.392,blue,False,Garen,Rengar,Kassadin,Leona,Ornn,Thresh,Renekton,LeBlanc,Amumu,Kai'Sa,0,0,0,0,0,False,False,False,False,False
+3320843612,10.5.312.392,red,True,Olaf,Yasuo,Morgana,Yuumi,Garen,Nasus,Lucian,Elise,Katarina,Nami,0,0,0,0,0,False,False,False,False,False
+3320843608,10.5.312.392,blue,False,Yasuo,Illaoi,Master Yi,Miss Fortune,Rammus,Xin Zhao,Talon,Riven,Wukong,Lee Sin,0,0,0,0,0,False,False,False,False,False
+3320843608,10.5.312.392,red,True,Shaco,Illaoi,Zed,Sett,Master Yi,Darius,Lucian,Irelia,Maokai,Pyke,9,1,2,1,0,True,True,True,True,False
+3320843605,10.5.312.392,blue,True,Yuumi,Leona,Fiora,Nocturne,Evelynn,Vladimir,Pyke,Qiyana,Lucian,Sett,9,1,2,0,0,True,True,False,False,False
+3320843605,10.5.312.392,red,False,Renekton,Nautilus,Morgana,Diana,Ornn,Katarina,Ezreal,Yasuo,Master Yi,Bard,2,0,1,1,0,False,False,True,True,False
+3320843597,10.5.312.392,blue,True,Leona,Zac,Jax,Kassadin,,Ornn,Vladimir,Lucian,Lulu,Kindred,10,2,1,1,1,True,True,False,True,True
+3320843597,10.5.312.392,red,False,Draven,Kassadin,Senna,Thresh,Jax,Rengar,Karma,Darius,Aphelios,Sylas,0,0,3,1,0,False,False,True,False,False
+3320843592,10.5.312.392,blue,True,Jax,Kassadin,Morgana,Leona,Olaf,Hecarim,Ekko,Camille,Miss Fortune,Bard,0,0,0,0,0,False,False,False,False,False
+3320843592,10.5.312.392,red,False,Darius,Draven,Aatrox,Rengar,Lee Sin,Warwick,Sona,Zed,Lucian,Diana,0,0,0,0,0,False,False,False,False,False
+3320843591,10.5.312.392,blue,True,Yasuo,Garen,Pyke,Master Yi,Blitzcrank,Gnar,Warwick,Twisted Fate,Xerath,Ezreal,11,2,3,2,1,True,True,True,True,True
+3320843591,10.5.312.392,red,False,Darius,Master Yi,Sett,Pyke,Aphelios,Tristana,Orianna,Singed,Elise,Soraka,0,0,1,0,0,False,False,False,False,False
+3320843590,10.5.312.392,blue,False,Diana,Olaf,Darius,Senna,Morgana,Tryndamere,Ezreal,Zoe,Sejuani,Janna,1,0,0,0,0,False,False,False,False,False
+3320843590,10.5.312.392,red,True,Yasuo,Senna,Shaco,Zed,Darius,Ahri,Nocturne,Renekton,Swain,Miss Fortune,8,1,3,1,0,True,True,True,True,False
+3320843579,10.5.312.392,blue,False,Viktor,Leona,Diana,Karthus,Malzahar,Jhin,Rek'Sai,Pantheon,Vladimir,Sona,3,0,1,1,0,False,False,False,True,False
+3320843579,10.5.312.392,red,True,Senna,Morgana,Sylas,Karthus,Nautilus,Azir,Mordekaiser,Jinx,Blitzcrank,Garen,7,1,2,0,1,True,True,True,False,True
+3320843576,10.5.312.392,blue,False,Master Yi,Teemo,Leona,Yasuo,Fizz,Sylas,Fiora,Caitlyn,Morgana,Kayn,1,0,1,0,0,False,False,True,False,False
+3320843576,10.5.312.392,red,True,Vayne,Ekko,Dr. Mundo,Yuumi,Diana,Varus,Nautilus,Shyvana,Zed,Garen,5,0,2,2,0,True,False,False,True,False
+3320843553,10.5.312.392,blue,False,Katarina,Senna,Yasuo,Darius,Ornn,Lulu,Vel'Koz,Nasus,Lee Sin,Ezreal,7,0,4,2,0,False,False,True,True,False
+3320843553,10.5.312.392,red,True,Olaf,Yasuo,Ryze,Jhin,Garen,Sivir,Sylas,Maokai,Trundle,Leona,9,2,1,0,1,True,True,False,False,True
+3320843550,10.5.312.392,blue,False,Zed,Ekko,Garen,Aphelios,Blitzcrank,Sylas,Ezreal,Pantheon,Yuumi,Vayne,0,0,0,0,0,False,False,False,False,False
+3320843550,10.5.312.392,red,True,Aphelios,Yasuo,Anivia,Morgana,Sett,Darius,Senna,Soraka,Twisted Fate,Master Yi,0,0,0,0,0,False,False,False,False,False
+3320843549,10.5.312.392,blue,False,Yuumi,Blitzcrank,Shaco,Nautilus,Ekko,Tryndamere,Soraka,Lissandra,Pantheon,Jhin,2,0,1,0,0,False,False,False,False,False
+3320843549,10.5.312.392,red,True,Darius,Trundle,Morgana,Ekko,Qiyana,Thresh,Tristana,Warwick,Sett,Nidalee,11,5,5,2,2,True,True,True,True,True
+3320843537,10.5.312.392,blue,True,Pyke,Garen,Nautilus,Senna,Ekko,Anivia,Blitzcrank,Ziggs,Jax,Nocturne,11,3,3,1,0,True,True,True,True,False
+3320843537,10.5.312.392,red,False,Lee Sin,Sett,Aphelios,Teemo,Ornn,Ezreal,Qiyana,Vladimir,Hecarim,Janna,1,0,0,0,0,False,False,False,False,False
+3320843532,10.5.312.392,blue,True,Yasuo,Aphelios,Zed,Darius,Sett,Viktor,Leona,Teemo,Sylas,Ezreal,6,1,2,0,0,False,True,False,False,False
+3320843532,10.5.312.392,red,False,Jax,Yasuo,Yuumi,Morgana,Tryndamere,Nautilus,Senna,Lee Sin,Ahri,Aatrox,3,0,1,0,0,True,False,True,False,False
+3320843531,10.5.312.392,blue,True,Darius,Morgana,Rammus,Aphelios,Senna,Jarvan IV,Kai'Sa,Thresh,Kassadin,Garen,0,0,0,0,0,False,False,False,False,False
+3320843531,10.5.312.392,red,False,Sett,Olaf,Darius,Master Yi,Aurelion Sol,Ryze,Nautilus,Rek'Sai,Ashe,Jax,0,0,0,0,0,False,False,False,False,False
+3320843529,10.5.312.392,blue,True,Mordekaiser,Lux,Ekko,Yasuo,Darius,Zyra,Jhin,Olaf,Diana,Garen,5,1,1,1,0,True,True,False,True,False
+3320843529,10.5.312.392,red,False,Aphelios,Darius,Master Yi,Shaco,Ornn,Xerath,Taliyah,Ezreal,Tryndamere,Warwick,0,0,1,0,0,False,False,True,False,False
+3320843522,10.5.312.392,blue,True,Senna,Yuumi,Vladimir,Fiora,Diana,Ekko,Galio,Renekton,Mordekaiser,Twitch,8,0,4,1,1,True,False,True,True,True
+3320843522,10.5.312.392,red,False,Master Yi,Aphelios,Warwick,Udyr,Darius,Jhin,Zac,Yasuo,Karthus,Sett,0,0,0,0,0,False,False,False,False,False
+3320843515,10.5.312.392,blue,False,Darius,Nautilus,Ahri,Yasuo,Pyke,Soraka,Caitlyn,Ryze,Fiora,Udyr,3,0,2,2,0,False,False,True,True,False
+3320843515,10.5.312.392,red,True,Garen,Aphelios,Nautilus,Yuumi,Master Yi,Vayne,Syndra,Jax,Kha'Zix,Leona,7,1,1,0,1,True,True,False,False,True
+3320843505,10.5.312.392,blue,False,Yasuo,Warwick,Leona,Aphelios,Vayne,Taliyah,Nami,Sett,Malphite,Master Yi,4,0,1,1,0,True,False,True,True,False
+3320843505,10.5.312.392,red,True,Senna,Darius,Aphelios,Diana,Jax,Nasus,Nautilus,Evelynn,Ekko,Miss Fortune,10,2,2,0,0,False,True,False,False,False
+3320843485,10.5.312.392,blue,True,Soraka,Yasuo,Garen,Ryze,Morgana,Lucian,Fiora,Ziggs,Sejuani,Pyke,5,1,2,1,0,True,True,True,True,False
+3320843485,10.5.312.392,red,False,Nautilus,Morgana,Sett,Ekko,Yasuo,Master Yi,Darius,Lux,Alistar,Ezreal,1,0,0,0,0,False,False,False,False,False
+3320843484,10.5.312.392,blue,True,Leona,Aphelios,Sett,Yuumi,Sylas,Orianna,Aatrox,Dr. Mundo,Twitch,Brand,9,2,3,1,1,False,True,False,True,True
+3320843484,10.5.312.392,red,False,Aphelios,Senna,Master Yi,Blitzcrank,Kassadin,Ekko,Jinx,Pyke,Zac,Garen,5,0,3,0,1,True,False,True,False,False
+3320843460,10.5.312.392,blue,False,Darius,Katarina,Senna,Yasuo,Elise,Miss Fortune,Leona,Olaf,Poppy,Rumble,8,4,3,1,1,True,True,False,True,True
+3320843460,10.5.312.392,red,True,Pyke,Illaoi,Vladimir,Master Yi,Ornn,Nunu & Willump,Ezreal,Garen,Ryze,Swain,7,1,4,0,1,False,False,True,False,False
+3320843459,10.5.312.392,blue,True,Blitzcrank,Veigar,Fizz,Shaco,Mordekaiser,Ashe,Pyke,Jax,Garen,Yuumi,5,0,3,2,0,False,False,True,True,False
+3320843459,10.5.312.392,red,False,Leona,Lux,Olaf,Nautilus,Kai'Sa,Bard,Zilean,Master Yi,Xerath,Jinx,1,0,0,0,0,True,False,False,False,False
+3320843455,10.5.312.392,blue,True,Shaco,Tryndamere,Ekko,Nautilus,Yasuo,Senna,Syndra,Vi,Urgot,Brand,11,4,4,2,1,True,True,True,True,True
+3320843455,10.5.312.392,red,False,Master Yi,Blitzcrank,Morgana,Darius,Diana,Leona,Aphelios,Talon,Volibear,Sion,2,0,1,0,0,False,False,False,False,False
+3320843444,10.5.312.392,blue,True,Shaco,Darius,Yasuo,Master Yi,Ahri,Ekko,Garen,Nami,Jhin,Morgana,9,3,2,1,0,False,True,False,False,False
+3320843444,10.5.312.392,red,False,Pyke,Master Yi,Sett,Diana,Vladimir,Draven,Warwick,Jax,Talon,Lux,3,0,2,1,0,True,False,True,True,False
+3320843425,10.5.312.392,blue,False,Shaco,Aphelios,Pyke,Zed,Darius,Neeko,Kayn,Zyra,Jinx,Shen,2,0,2,0,0,False,False,False,False,False
+3320843425,10.5.312.392,red,True,Nautilus,Sett,Master Yi,Ahri,Nocturne,Ashe,Orianna,Sejuani,Rumble,Morgana,8,2,3,1,2,True,True,True,True,True
+3320843421,10.5.312.392,blue,True,Sett,Aphelios,Master Yi,Nautilus,Pantheon,Warwick,Miss Fortune,Swain,Nasus,Soraka,8,1,4,1,1,True,True,True,True,True
+3320843421,10.5.312.392,red,False,Rengar,Caitlyn,Leona,Yasuo,Darius,Urgot,Orianna,Senna,Jinx,Ashe,2,0,0,1,0,False,False,False,False,False
+3320843412,10.5.312.392,blue,False,Nautilus,Blitzcrank,Lux,Diana,Fiora,Sona,Amumu,Kennen,Teemo,Kai'Sa,2,0,1,0,0,False,False,False,False,False
+3320843412,10.5.312.392,red,True,Fizz,Warwick,Nautilus,Sett,Pyke,Akali,Kayn,Vayne,Lucian,Senna,5,1,2,1,0,True,True,True,True,False
+3320843404,10.5.312.392,blue,True,Leona,,Akali,Renekton,Talon,Vayne,Thresh,Hecarim,Ziggs,Urgot,5,0,4,1,0,True,False,True,True,False
+3320843404,10.5.312.392,red,False,Pyke,Nasus,Qiyana,Diana,Blitzcrank,Elise,Quinn,Senna,Lux,Zed,1,0,0,0,0,False,False,False,False,False
+3320843401,10.5.312.392,blue,True,Yasuo,Ezreal,Olaf,Garen,Leona,Master Yi,Galio,Mordekaiser,Caitlyn,Zilean,6,0,3,1,0,True,False,True,True,False
+3320843401,10.5.312.392,red,False,Aphelios,Pyke,Malzahar,Shaco,Sett,Wukong,Zed,Rammus,Sona,Tristana,1,0,0,0,0,False,False,False,False,False
+3320843394,10.5.312.392,blue,False,Shaco,Zed,Lee Sin,Blitzcrank,Aphelios,Diana,Kindred,Braum,Xerath,Jhin,9,2,2,1,1,True,True,True,True,True
+3320843394,10.5.312.392,red,True,Darius,Sett,Yasuo,Garen,Nautilus,Pantheon,Senna,Olaf,Zyra,Mordekaiser,7,2,2,0,0,False,False,False,False,False
+3320843386,10.5.312.392,blue,True,Darius,Master Yi,Zed,Vladimir,Tryndamere,Nasus,Syndra,Aphelios,Olaf,Cho'Gath,11,3,3,0,1,False,True,True,False,True
+3320843386,10.5.312.392,red,False,Illaoi,Caitlyn,Veigar,Garen,Soraka,Miss Fortune,Ekko,Irelia,Twitch,Bard,3,0,2,2,0,True,False,False,True,False
+3320843382,10.5.312.392,blue,False,Trundle,Yasuo,Caitlyn,Garen,Brand,Soraka,Vayne,Fizz,Pantheon,Warwick,2,0,1,1,0,False,False,True,True,False
+3320843382,10.5.312.392,red,True,Pyke,Blitzcrank,Shaco,Master Yi,Aphelios,Xerath,Skarner,Jax,Senna,Jinx,9,2,2,0,0,True,True,False,False,False
+3320843381,10.5.312.392,blue,False,Amumu,Pyke,Diana,Vayne,Yasuo,Sona,Xin Zhao,Wukong,Jhin,Volibear,2,0,1,0,0,False,False,False,False,False
+3320843381,10.5.312.392,red,True,Caitlyn,Pyke,,Nocturne,Malzahar,Alistar,Ekko,Akali,Draven,Jax,10,2,2,1,0,True,True,True,True,False
+3320843378,10.5.312.392,blue,False,Ezreal,Master Yi,Aphelios,Aatrox,Tryndamere,Zac,Sona,Morgana,Poppy,Senna,1,0,0,0,0,False,False,False,False,False
+3320843378,10.5.312.392,red,True,,Sett,Master Yi,Yasuo,Tryndamere,Anivia,Olaf,Lux,Garen,Miss Fortune,11,3,4,1,1,True,True,True,True,True
+3320843377,10.5.312.392,blue,False,Ornn,Morgana,Master Yi,Senna,Tryndamere,Sylas,Ezreal,Pyke,Vladimir,Renekton,5,0,2,0,0,False,False,False,False,False
+3320843377,10.5.312.392,red,True,Leona,Diana,Illaoi,Garen,Vayne,Olaf,Darius,Yasuo,Miss Fortune,Blitzcrank,8,2,3,2,1,True,True,True,True,True
+3320843373,10.5.312.392,blue,False,Yasuo,Rammus,Garen,Morgana,Aphelios,Rengar,Syndra,Xerath,Shaco,Jinx,3,0,0,0,0,False,False,False,False,False
+3320843373,10.5.312.392,red,True,Talon,Teemo,Ekko,Darius,Fiora,Miss Fortune,Akali,Tahm Kench,Tryndamere,Nunu & Willump,7,0,5,0,1,True,False,True,False,True
+3320843365,10.5.312.392,blue,False,Jax,Brand,Ekko,Darius,Sett,Karma,Teemo,Pantheon,Warwick,Caitlyn,4,0,1,2,0,True,False,True,True,False
+3320843365,10.5.312.392,red,True,Leona,Darius,Aphelios,Renekton,Diana,Soraka,Ashe,Garen,Kayle,Annie,9,2,3,0,0,False,True,False,False,False
+3320843360,10.5.312.392,blue,False,Irelia,Renekton,Master Yi,Sett,Yasuo,Vayne,Sylas,Lee Sin,Galio,Senna,3,0,3,0,0,True,False,True,False,False
+3320843360,10.5.312.392,red,True,Sett,Ornn,Nautilus,Rengar,Aatrox,Ezreal,Karma,Graves,Caitlyn,Leona,10,3,1,0,2,False,True,False,False,True
+3320843358,10.5.312.392,blue,True,Yasuo,Nautilus,Ornn,Mordekaiser,Zoe,Renekton,Kai'Sa,Ryze,Karthus,Thresh,7,1,3,1,1,False,True,False,True,True
+3320843358,10.5.312.392,red,False,Pyke,Mordekaiser,Lee Sin,Zed,Leona,Teemo,Aphelios,Senna,Irelia,Ekko,5,0,1,1,0,True,False,True,False,False
+3320843353,10.5.312.392,blue,True,Ekko,Evelynn,Darius,Draven,Blitzcrank,Aphelios,Malzahar,Senna,Karthus,Tryndamere,9,1,3,1,1,False,True,False,True,True
+3320843353,10.5.312.392,red,False,Yasuo,Kassadin,Darius,Ekko,Nocturne,Ezreal,Lee Sin,Maokai,Diana,Sett,3,0,2,0,0,True,False,True,False,False
+3320843352,10.5.312.392,blue,True,Senna,Vladimir,Ekko,Yuumi,Evelynn,Varus,Shyvana,Lulu,Morgana,Kayle,9,2,3,0,0,True,True,False,False,False
+3320843352,10.5.312.392,red,False,Master Yi,Ornn,Katarina,Pantheon,Sett,Talon,Yasuo,Diana,Soraka,Aphelios,4,0,2,0,2,False,False,True,False,True
+3320843349,10.5.312.392,blue,False,Yasuo,Blitzcrank,Senna,Darius,Viktor,Evelynn,Fiddlesticks,Caitlyn,Cassiopeia,Irelia,0,0,0,0,0,False,False,False,False,False
+3320843349,10.5.312.392,red,True,Mordekaiser,Camille,Master Yi,Talon,Morgana,Leona,Ashe,Karthus,Ekko,Kennen,8,1,2,1,0,True,True,True,True,False
+3320843341,10.5.312.392,blue,True,Yasuo,Aphelios,Master Yi,Sylas,Yuumi,Leona,Ahri,Ezreal,Tryndamere,Karthus,7,2,2,1,0,True,True,False,False,False
+3320843341,10.5.312.392,red,False,Yasuo,Ornn,Blitzcrank,Talon,Aphelios,Xayah,Senna,Taliyah,Riven,Lee Sin,1,0,3,1,0,False,False,True,True,False
+3320843332,10.5.312.392,blue,False,Yasuo,Morgana,Tahm Kench,Darius,Rengar,Corki,Shen,Thresh,Kai'Sa,Xin Zhao,4,0,1,1,0,True,False,False,True,False
+3320843332,10.5.312.392,red,True,Ornn,Zed,Mordekaiser,Evelynn,Senna,Ezreal,Garen,Zyra,Olaf,Orianna,9,2,4,0,1,False,True,True,False,True
+3320843329,10.5.312.392,blue,False,Shaco,Morgana,Sett,Katarina,Draven,Yorick,Jax,Jinx,Annie,Nautilus,1,0,1,1,0,True,False,True,True,False
+3320843329,10.5.312.392,red,True,Blitzcrank,Ornn,Master Yi,Pyke,Udyr,Nami,Ashe,Darius,Lee Sin,Cassiopeia,7,1,2,0,1,False,True,False,False,True
+3320843318,10.5.312.392,blue,True,Ekko,Aphelios,Senna,Kalista,Olaf,Warwick,Twisted Fate,Aatrox,Yuumi,Garen,7,2,2,2,1,True,True,True,True,True
+3320843318,10.5.312.392,red,False,Renekton,Blitzcrank,Senna,Diana,Vladimir,Bard,Caitlyn,Nocturne,Mordekaiser,Master Yi,2,0,1,0,0,False,False,False,False,False
+3320843309,10.5.312.392,blue,False,Darius,,Nocturne,Pyke,Vladimir,Vayne,Warwick,Zoe,Ashe,Rakan,5,1,3,0,0,False,True,True,False,False
+3320843309,10.5.312.392,red,True,Senna,Mordekaiser,Yasuo,Malphite,Morgana,Miss Fortune,Leona,Zilean,Jarvan IV,Renekton,8,1,2,2,2,True,False,False,True,True
+3320843308,10.5.312.392,blue,False,Blitzcrank,Kled,Warwick,Pyke,Diana,Amumu,Miss Fortune,Leona,Jarvan IV,Ahri,0,0,0,0,0,False,False,False,False,False
+3320843308,10.5.312.392,red,True,Nautilus,Darius,Pyke,Blitzcrank,Sylas,Master Yi,Ashe,Shen,Garen,Lissandra,11,2,4,2,2,True,True,True,True,True
+3320843302,10.5.312.392,blue,True,Tryndamere,Talon,Senna,Yasuo,Sett,Sivir,Morgana,Zac,Katarina,Darius,11,4,3,1,0,True,True,True,True,False
+3320843302,10.5.312.392,red,False,Yasuo,Lee Sin,Kassadin,Sett,Senna,Urgot,Bard,Jax,Ezreal,Lux,4,0,1,0,1,False,False,False,False,True
+3320843297,10.5.312.392,blue,True,Master Yi,Nautilus,Syndra,Vladimir,Fiora,Jarvan IV,Miss Fortune,Zoe,Senna,Garen,10,2,3,2,0,True,True,True,True,False
+3320843297,10.5.312.392,red,False,Leona,Nasus,Rammus,Aphelios,Master Yi,Ezreal,Yuumi,Kalista,Yasuo,Lee Sin,0,0,0,0,0,False,False,False,False,False
+3320843295,10.5.312.392,blue,False,Lee Sin,Karthus,Lucian,,Yasuo,Bard,Jhin,Talon,Rek'Sai,Darius,0,0,0,0,0,False,False,False,False,False
+3320843295,10.5.312.392,red,True,Sett,Renekton,Master Yi,Leona,Yuumi,Morgana,Ezreal,Fiora,Jarvan IV,Orianna,9,3,2,1,0,True,True,True,True,False
+3320843287,10.5.312.392,blue,True,Aphelios,Fiora,,Leona,Darius,Nautilus,Kindred,Ashe,Jayce,Mordekaiser,8,1,2,0,1,True,True,True,False,True
+3320843287,10.5.312.392,red,False,Aphelios,Vayne,Illaoi,Caitlyn,Sett,Varus,Zac,Katarina,Camille,Nami,2,0,2,1,0,False,False,False,True,False
+3320843276,10.5.312.392,blue,True,Cho'Gath,Yasuo,Warwick,Zed,Caitlyn,Alistar,Vladimir,Irelia,Teemo,Trundle,6,0,2,0,0,True,False,True,False,False
+3320843276,10.5.312.392,red,False,Senna,Lee Sin,Illaoi,Yasuo,Leona,Braum,Sett,Shen,Zoe,Kai'Sa,1,0,1,0,0,False,False,False,False,False
+3320843265,10.5.312.392,blue,True,Shaco,Master Yi,Fizz,Darius,Caitlyn,Kayn,Vladimir,Singed,Miss Fortune,Brand,9,1,3,0,0,True,True,True,False,False
+3320843265,10.5.312.392,red,False,Darius,Garen,Caitlyn,Cassiopeia,Illaoi,Tryndamere,Diana,Yasuo,Nautilus,Ezreal,5,0,1,0,1,False,False,False,False,True
+3320843247,10.5.312.392,blue,False,Sett,Leona,Kassadin,Mordekaiser,Yasuo,Senna,Ekko,Kayle,Ziggs,Sivir,9,3,1,1,0,True,True,False,True,False
+3320843247,10.5.312.392,red,True,Darius,Aphelios,Pyke,Fizz,Master Yi,Ezreal,Yuumi,Kayn,Ornn,Neeko,7,2,4,0,1,False,False,True,False,True
+3320843240,10.5.312.392,blue,True,Ekko,Zac,Miss Fortune,Caitlyn,Malzahar,Garen,Diana,Lee Sin,Sona,Jhin,7,2,2,1,0,False,True,True,True,False
+3320843240,10.5.312.392,red,False,Master Yi,Blitzcrank,Fizz,Darius,Ekko,Ashe,Senna,Karma,Ornn,Vladimir,3,0,2,0,1,True,False,False,False,True
+3320843237,10.5.312.392,blue,False,Fizz,Teemo,,Yasuo,Nautilus,Kindred,Vladimir,Vel'Koz,Hecarim,Jhin,1,0,0,1,0,False,False,False,True,False
+3320843237,10.5.312.392,red,True,Darius,Ekko,Morgana,Garen,Miss Fortune,Ezreal,Ahri,Master Yi,Poppy,Senna,9,1,3,0,0,True,True,True,False,False
+3320843235,10.5.312.392,blue,True,Mordekaiser,Elise,Blitzcrank,Zed,Darius,Bard,Miss Fortune,Quinn,Lissandra,Dr. Mundo,11,4,4,1,2,True,True,True,False,True
+3320843235,10.5.312.392,red,False,Leona,Aphelios,Yasuo,Morgana,Garen,Ekko,Shyvana,Annie,Jhin,Volibear,4,0,1,1,0,False,False,False,True,False
+3320843234,10.5.312.392,blue,True,Diana,Nasus,Master Yi,Sett,Morgana,Vayne,Xerath,Garen,Wukong,Sona,8,1,2,0,1,False,True,False,False,True
+3320843234,10.5.312.392,red,False,Lee Sin,Nautilus,Tryndamere,Zed,Senna,Caitlyn,Yuumi,Mordekaiser,Gnar,Kha'Zix,3,0,2,1,0,True,False,True,True,False
+3320843226,10.5.312.392,blue,False,,Master Yi,Darius,Miss Fortune,Yuumi,Ekko,Trundle,Singed,Braum,Lucian,8,1,2,2,0,True,True,False,True,False
+3320843226,10.5.312.392,red,True,Kassadin,Senna,Caitlyn,Aatrox,Sett,Warwick,Anivia,Gnar,Kai'Sa,Leona,8,1,4,0,2,False,False,True,False,True
+3320843215,10.5.312.392,blue,False,Brand,,Leona,Yasuo,Trundle,Illaoi,Ezreal,Veigar,Pyke,Vi,8,1,2,1,1,False,True,False,False,True
+3320843215,10.5.312.392,red,True,Leona,Olaf,Darius,Miss Fortune,Shaco,Sett,Zed,Aphelios,Nami,Mordekaiser,8,2,4,1,1,True,False,True,True,False
+3320843211,10.5.312.392,blue,True,Leona,Shaco,Yasuo,Kassadin,Sett,Zed,Vi,Mordekaiser,Nautilus,Caitlyn,9,3,5,2,0,True,True,True,True,False
+3320843211,10.5.312.392,red,False,Kassadin,Ekko,Lee Sin,Senna,Katarina,Ezreal,Lissandra,Kled,Sylas,Tahm Kench,4,0,1,0,2,False,False,False,False,True
+3320843208,10.5.312.392,blue,True,Soraka,Malphite,Diana,Ekko,Yuumi,Evelynn,Kled,Irelia,Xerath,Ezreal,7,1,3,0,1,False,False,False,False,False
+3320843208,10.5.312.392,red,False,Garen,Blitzcrank,Sett,Leona,Aphelios,Olaf,Zyra,Lucian,Taliyah,Yasuo,7,1,4,1,1,True,True,True,True,True
+3320843207,10.5.312.392,blue,False,Caitlyn,Lucian,Yasuo,Lux,Master Yi,Sylas,Tristana,Olaf,Renekton,Zilean,0,0,0,0,0,False,False,False,False,False
+3320843207,10.5.312.392,red,True,Yasuo,Pyke,Teemo,Senna,Sett,Kalista,Gragas,Darius,Talon,Nautilus,0,0,0,0,0,False,False,False,False,False
+3320843206,10.5.312.392,blue,False,Fizz,Morgana,Sett,Darius,Jax,Diana,Jhin,Leona,Evelynn,Teemo,5,0,2,1,0,True,False,False,True,False
+3320843206,10.5.312.392,red,True,Ekko,Garen,Lux,Pyke,Darius,Nasus,Sona,Master Yi,Lissandra,Tristana,9,1,3,1,1,False,True,True,False,True
+3320843197,10.5.312.392,blue,False,Master Yi,Nautilus,Blitzcrank,Sett,Fiddlesticks,Ashe,Kayle,Soraka,Udyr,Malphite,3,0,0,2,0,False,False,False,True,False
+3320843197,10.5.312.392,red,True,Senna,Leona,Shaco,Illaoi,Yasuo,Anivia,Rammus,Nasus,Morgana,Miss Fortune,10,2,4,0,0,True,True,True,False,False
+3320843190,10.5.312.392,blue,False,Pyke,Diana,Darius,Blitzcrank,Hecarim,Viktor,Shen,Zyra,Miss Fortune,Sett,3,0,1,0,0,False,False,False,False,False
+3320843190,10.5.312.392,red,True,Yasuo,Anivia,Darius,Tryndamere,,Lux,Annie,Olaf,Vayne,Jax,11,4,4,1,2,True,True,True,True,True
+3320843173,10.5.312.392,blue,False,Leona,Yasuo,Garen,Master Yi,Darius,Ahri,Olaf,Brand,Draven,Sett,0,0,0,0,0,False,False,False,False,False
+3320843173,10.5.312.392,red,True,Aphelios,Morgana,Diana,Master Yi,,Renekton,Caitlyn,Trundle,Kassadin,Pyke,4,0,2,1,0,True,False,True,True,False
+3320843172,10.5.312.392,blue,True,Aatrox,Yasuo,Aphelios,Master Yi,Sett,Olaf,Dr. Mundo,Diana,Caitlyn,Leona,11,2,3,1,0,True,True,True,True,False
+3320843172,10.5.312.392,red,False,Senna,Sett,Master Yi,Irelia,Teemo,Yuumi,Garen,Kayn,Lucian,Sylas,2,0,0,0,0,False,False,False,False,False
+3320843164,10.5.312.392,blue,True,Jax,Kassadin,Yasuo,Morgana,Diana,Ezreal,Pyke,Senna,Katarina,Amumu,7,2,3,2,0,True,True,True,True,False
+3320843164,10.5.312.392,red,False,Morgana,Darius,Diana,Quinn,Tryndamere,Vi,Kennen,Fizz,Caitlyn,Swain,8,1,3,0,1,False,False,False,False,True
+3320843161,10.5.312.392,blue,True,Zac,Senna,Malzahar,Teemo,Leona,Ekko,Diana,Xayah,Rakan,Urgot,11,3,3,1,1,True,True,False,True,True
+3320843161,10.5.312.392,red,False,Master Yi,Yasuo,Garen,Zed,Senna,Lux,Ezreal,Sett,Ornn,Tristana,4,0,1,0,0,False,False,True,False,False
+3320843153,10.5.312.392,blue,True,Pyke,Diana,Darius,Sett,Senna,Miss Fortune,Sion,Master Yi,Zilean,Malzahar,8,1,2,0,0,True,True,False,False,False
+3320843153,10.5.312.392,red,False,Soraka,Caitlyn,Morgana,,Sett,Aphelios,Riven,Jarvan IV,Talon,Blitzcrank,3,0,1,1,0,False,False,True,True,False
+3320843137,10.5.312.392,blue,False,Nautilus,Renekton,Sett,Yasuo,Master Yi,Warwick,Ezreal,Ashe,Singed,Zyra,2,0,2,1,0,True,False,True,True,False
+3320843137,10.5.312.392,red,True,Akali,Ornn,Aphelios,Blitzcrank,Cassiopeia,Aatrox,Vladimir,Jhin,Lux,Kayn,10,2,3,0,0,False,True,False,False,False
+3320843134,10.5.312.392,blue,False,Diana,Vladimir,Aphelios,Nautilus,Sejuani,Yasuo,Jarvan IV,Tryndamere,Leona,Kai'Sa,4,0,0,0,0,False,False,False,False,False
+3320843134,10.5.312.392,red,True,Katarina,Master Yi,Sett,Garen,Lux,Olaf,Dr. Mundo,Caitlyn,Janna,Ekko,8,2,4,1,1,True,True,True,True,True
+3320843124,10.5.312.392,blue,False,Warwick,Ahri,Yasuo,Nautilus,Master Yi,Graves,Draven,Pyke,Sett,Camille,2,0,0,1,0,True,False,False,True,False
+3320843124,10.5.312.392,red,True,Zed,Darius,Olaf,Kai'Sa,Brand,Miss Fortune,Galio,Rek'Sai,Katarina,Garen,11,2,4,0,1,False,True,True,False,True
+3320843119,10.5.312.392,blue,True,Sett,Shaco,Leona,Katarina,Senna,Orianna,Xayah,Zac,Blitzcrank,Garen,0,0,0,0,0,False,False,False,False,False
+3320843119,10.5.312.392,red,False,Pyke,Darius,Master Yi,Fizz,Draven,Lucian,Zed,Heimerdinger,Zyra,Evelynn,0,0,0,0,0,False,False,False,False,False
+3320843103,10.5.312.392,blue,False,Jax,Kassadin,Sett,Ekko,Swain,Malphite,Miss Fortune,LeBlanc,Lulu,Shaco,0,0,0,0,0,False,False,False,False,False
+3320843103,10.5.312.392,red,True,Ornn,Sett,Lucian,Master Yi,Zed,Thresh,Warwick,Malzahar,Aphelios,Kalista,6,0,3,1,0,True,False,True,True,False
+3320843098,10.5.312.392,blue,True,Karthus,Diana,Poppy,Thresh,Morgana,Tryndamere,Caitlyn,Nami,Cho'Gath,Rengar,10,1,4,1,0,True,True,True,True,False
+3320843098,10.5.312.392,red,False,Morgana,Olaf,Illaoi,Sylas,Leona,Azir,Zac,Tristana,Nasus,Yuumi,4,0,0,0,1,False,False,False,False,True
+3320843097,10.5.312.392,blue,True,Illaoi,,Master Yi,Nautilus,Senna,Veigar,Diana,Sylas,Trundle,Vayne,10,2,3,0,1,True,True,False,False,True
+3320843097,10.5.312.392,red,False,Blitzcrank,Fizz,Yasuo,Amumu,Zac,Jhin,Anivia,Jarvan IV,Ornn,Pyke,2,0,1,0,0,False,False,True,False,False
+3320843096,10.5.312.392,blue,True,Darius,Corki,Morgana,Master Yi,Ekko,Syndra,Miss Fortune,Karma,Maokai,Warwick,10,2,5,1,0,True,True,True,True,False
+3320843096,10.5.312.392,red,False,Pyke,Talon,Mordekaiser,Yasuo,Shaco,Kayle,Thresh,Kalista,Viktor,Elise,1,0,0,0,0,False,False,False,False,False
+3320843087,10.5.312.392,blue,False,Kled,Blitzcrank,Aphelios,Nautilus,Morgana,Senna,Jax,Zed,Ornn,Lux,4,0,1,1,0,True,False,True,True,False
+3320843087,10.5.312.392,red,True,Ekko,Master Yi,Zoe,Shaco,Aphelios,Elise,Yuumi,Ezreal,Maokai,Ahri,7,1,3,0,1,False,True,False,False,True
+3320843075,10.5.312.392,blue,True,Brand,Sett,Pyke,Mordekaiser,Yasuo,Jinx,Jarvan IV,Veigar,Blitzcrank,Camille,5,0,2,1,0,True,False,False,True,False
+3320843075,10.5.312.392,red,False,Darius,Vladimir,Katarina,Trundle,Senna,Singed,Morgana,Garen,Nunu & Willump,Vayne,0,0,1,1,0,False,False,True,False,False
+3320843068,10.5.312.392,blue,True,Pyke,Brand,Aphelios,Sylas,Aatrox,Varus,Pantheon,Lux,Fizz,Kayn,8,1,3,1,1,True,True,False,False,True
+3320843068,10.5.312.392,red,False,Sett,Leona,Garen,Olaf,Malzahar,Fiora,Warwick,Yasuo,Teemo,Cassiopeia,4,0,2,1,0,False,False,True,True,False
+3320843067,10.5.312.392,blue,True,,Sett,Miss Fortune,Ekko,Senna,Yuumi,Diana,Zac,Ezreal,Jax,11,3,1,1,1,True,True,False,True,True
+3320843067,10.5.312.392,red,False,Thresh,Sett,Galio,Olaf,Swain,Maokai,Leona,Brand,Lucian,Katarina,0,0,2,0,0,False,False,True,False,False
+3320843059,10.5.312.392,blue,False,Caitlyn,Vayne,Morgana,Darius,Zoe,Vi,Kog'Maw,Nasus,Lux,Ashe,2,0,0,0,0,False,False,False,False,False
+3320843059,10.5.312.392,red,True,Garen,Nautilus,Master Yi,Kled,Leona,Twitch,Trundle,Thresh,Sett,Xerath,8,1,3,0,0,True,True,True,False,False
+3320843054,10.5.312.392,blue,True,Caitlyn,Pyke,Nasus,Ekko,Yasuo,Shaco,Sett,Veigar,Rakan,Tristana,11,3,4,1,1,True,True,True,True,True
+3320843054,10.5.312.392,red,False,Fizz,Garen,Pyke,Caitlyn,Mordekaiser,Singed,Yuumi,Lux,Ashe,Lee Sin,3,0,0,0,0,False,False,False,False,False
+3320843049,10.5.312.392,blue,False,Diana,Aphelios,Kayn,Pyke,Darius,Amumu,Fiora,Xerath,Ashe,Vladimir,8,1,4,0,0,True,True,True,False,False
+3320843049,10.5.312.392,red,True,Master Yi,Tryndamere,Yuumi,Aphelios,Mordekaiser,Lee Sin,Senna,Swain,Sylas,Sett,9,2,2,2,1,False,False,False,True,True
+3320843046,10.5.312.392,blue,False,Zac,Katarina,Yuumi,Blitzcrank,Darius,Vayne,Xerath,Jarvan IV,Singed,Taliyah,4,0,1,0,0,True,False,False,False,False
+3320843046,10.5.312.392,red,True,Morgana,Taric,Garen,Blitzcrank,Vladimir,Talon,Amumu,Sylas,Tahm Kench,Senna,8,2,4,2,2,False,True,True,True,True
+3320843032,10.5.312.392,blue,True,Thresh,Zoe,Darius,Fizz,Yuumi,Veigar,Nidalee,Vayne,Fiora,Alistar,9,1,2,1,0,True,True,True,True,False
+3320843032,10.5.312.392,red,False,Yuumi,Tryndamere,Olaf,Karthus,Kassadin,Ezreal,Gragas,Zac,Bard,Sion,1,0,2,0,0,False,False,False,False,False
+3320843016,10.5.312.392,blue,False,Sett,Aphelios,Diana,Jayce,Darius,Xerath,Volibear,Fiora,Yuumi,Ezreal,6,0,0,0,0,False,False,False,False,False
+3320843016,10.5.312.392,red,True,Yasuo,Morgana,Yorick,Master Yi,Katarina,Rumble,Evelynn,Akali,Caitlyn,Pyke,7,1,5,1,0,True,True,True,True,False
+3320843012,10.5.312.392,blue,True,Garen,Talon,Nasus,Warwick,Morgana,Vladimir,Vayne,Braum,Lee Sin,Zoe,11,3,4,0,0,True,True,True,False,False
+3320843012,10.5.312.392,red,False,Tryndamere,Ornn,Aphelios,Nautilus,Kassadin,Miss Fortune,Thresh,Heimerdinger,Sylas,Olaf,3,0,1,1,1,False,False,False,True,True
+3320842999,10.5.312.392,blue,True,Vi,Sett,Morgana,Jhin,Fizz,Zac,Sion,Yasuo,Teemo,Caitlyn,0,0,0,0,0,False,False,False,False,False
+3320842999,10.5.312.392,red,False,Blitzcrank,Pyke,Warwick,Malzahar,Tryndamere,Nautilus,Miss Fortune,Kayn,Leona,Azir,0,0,0,0,0,False,False,False,False,False
+3320842988,10.5.312.392,blue,False,Mordekaiser,Rammus,Teemo,Veigar,Ekko,Volibear,Neeko,Lucian,Sett,Vayne,0,0,0,0,0,False,False,False,False,False
+3320842988,10.5.312.392,red,True,Swain,,Lee Sin,Ezreal,Yasuo,Annie,Sejuani,Garen,Senna,Ashe,3,0,2,0,0,True,False,True,False,False
+3320842975,10.5.312.392,blue,True,Tryndamere,Morgana,Aphelios,Master Yi,Garen,Warwick,Thresh,Gangplank,Taliyah,Miss Fortune,9,1,3,0,0,False,True,True,False,False
+3320842975,10.5.312.392,red,False,Aphelios,Zed,Blitzcrank,Sylas,Master Yi,Veigar,Vayne,Senna,Maokai,Vi,2,0,2,1,0,True,False,False,True,False
+3320842964,10.5.312.392,blue,True,Senna,Pyke,Jax,Garen,Ashe,Olaf,Yasuo,Miss Fortune,Soraka,Mordekaiser,10,1,4,1,1,False,True,True,True,True
+3320842964,10.5.312.392,red,False,Darius,Leona,Nautilus,Master Yi,Cassiopeia,Sett,Xerath,Kai'Sa,Rengar,Tryndamere,6,0,1,0,0,True,False,False,False,False
+3320842962,10.5.312.392,blue,False,Caitlyn,Quinn,Qiyana,Blitzcrank,Jax,Miss Fortune,Amumu,Diana,Soraka,Rumble,3,0,1,0,0,False,False,False,False,False
+3320842962,10.5.312.392,red,True,Aphelios,Mordekaiser,Jarvan IV,Yasuo,Jhin,Leona,Senna,Poppy,Lee Sin,Garen,5,0,1,1,0,True,False,True,True,False
+3320842961,10.5.312.392,blue,False,Yasuo,Illaoi,Lux,Pyke,Mordekaiser,Udyr,Veigar,Shen,Diana,Caitlyn,0,0,0,0,0,False,False,False,False,False
+3320842961,10.5.312.392,red,True,Yuumi,Blitzcrank,Darius,Vladimir,Shaco,Fizz,Senna,Amumu,Kog'Maw,Garen,0,0,0,0,0,False,False,False,False,False
+3320842958,10.5.312.392,blue,True,Blitzcrank,Yasuo,Ornn,Warwick,Aphelios,Miss Fortune,Neeko,Dr. Mundo,Brand,Nocturne,10,1,4,1,0,True,True,True,True,False
+3320842958,10.5.312.392,red,False,Master Yi,Morgana,Darius,Jhin,LeBlanc,Xin Zhao,Trundle,Pyke,Ezreal,Ahri,3,0,0,1,0,False,False,False,False,False
+3320842952,10.5.312.392,blue,True,Sett,Ekko,Senna,Mordekaiser,Darius,Lee Sin,Karma,Xerath,Nasus,Xayah,8,2,4,1,1,True,True,True,True,True
+3320842952,10.5.312.392,red,False,Pyke,Caitlyn,Darius,Ekko,Kassadin,Zac,Miss Fortune,Sona,Singed,Teemo,4,0,0,0,0,False,False,False,False,False
+3320842946,10.5.312.392,blue,True,Yasuo,Sona,Senna,Brand,Ornn,Lissandra,Trundle,Malzahar,Gnar,Malphite,9,2,4,1,0,True,True,True,True,False
+3320842946,10.5.312.392,red,False,Aphelios,Ekko,Yuumi,Yasuo,Sett,Leona,Lucian,Zilean,Nidalee,Olaf,6,1,2,0,3,False,False,False,False,True
+3320842941,10.5.312.392,blue,False,Aphelios,Veigar,Tristana,Darius,Shaco,Pantheon,Caitlyn,Yuumi,Zac,Rammus,3,0,1,0,0,False,False,False,False,False
+3320842941,10.5.312.392,red,True,Garen,Morgana,Pyke,Master Yi,Sett,Yasuo,Miss Fortune,Malphite,Taric,Jax,11,2,3,2,0,True,True,True,True,False
+3320842939,10.5.312.392,blue,False,Yasuo,Master Yi,Syndra,Ekko,Sett,Annie,Camille,Amumu,Blitzcrank,Jinx,0,0,3,0,0,False,False,True,False,False
+3320842939,10.5.312.392,red,True,Nasus,Soraka,Cassiopeia,Garen,,Mordekaiser,Jarvan IV,Talon,Kai'Sa,Gragas,8,1,0,1,0,True,True,False,True,False
+3320842931,10.5.312.392,blue,False,Aphelios,Soraka,Zed,Diana,Mordekaiser,Darius,Caitlyn,Rumble,Lux,Garen,7,1,2,1,0,True,True,False,True,False
+3320842931,10.5.312.392,red,True,Nautilus,Morgana,Mordekaiser,Olaf,Diana,Ekko,Sett,Jhin,Yasuo,Malphite,10,2,4,0,1,False,False,True,False,True
+3320842924,10.5.312.392,blue,False,Olaf,Fiora,Rengar,Yasuo,Blitzcrank,Ivern,Xerath,Draven,Vel'Koz,Poppy,5,0,1,0,0,True,False,False,False,False
+3320842924,10.5.312.392,red,True,Jax,Leona,Darius,Fizz,Aphelios,Lux,Teemo,Ekko,Lee Sin,Miss Fortune,9,2,4,0,1,False,True,True,False,True
+3320842923,10.5.312.392,blue,True,Malzahar,Yasuo,Tryndamere,Diana,Sett,Warwick,Sylas,Senna,Jinx,Kayle,9,2,2,1,0,True,True,True,True,False
+3320842923,10.5.312.392,red,False,Zed,Darius,Master Yi,Olaf,Diana,Brand,Vladimir,Kayn,Caitlyn,Garen,3,0,0,0,0,False,False,False,False,False
+3320842922,10.5.312.392,blue,True,Diana,Sylas,Nautilus,Ornn,Sett,Malphite,Elise,Ryze,Vayne,Neeko,10,3,2,2,1,True,True,True,True,True
+3320842922,10.5.312.392,red,False,Kled,Zac,Ekko,Leona,Darius,Blitzcrank,Zed,Caitlyn,Garen,Karthus,1,0,2,0,0,False,False,False,False,False
+3320842915,10.5.312.392,blue,False,Sett,Amumu,Caitlyn,,Ezreal,Yasuo,Aphelios,Mordekaiser,Kayn,Brand,2,0,2,1,0,False,False,True,True,False
+3320842915,10.5.312.392,red,True,Heimerdinger,Master Yi,Tryndamere,Teemo,Zed,Darius,Nautilus,Rengar,Katarina,Kai'Sa,11,2,2,0,1,True,True,False,False,True
+3320842905,10.5.312.392,blue,False,Diana,Garen,Nautilus,Caitlyn,Aphelios,Nunu & Willump,Fiddlesticks,Tryndamere,Xayah,Zed,1,0,0,0,0,False,False,False,False,False
+3320842905,10.5.312.392,red,True,Katarina,Kassadin,Nasus,Blitzcrank,Caitlyn,Cho'Gath,Lux,Darius,Sejuani,Kai'Sa,8,1,3,2,0,True,True,True,True,False
+3320842902,10.5.312.392,blue,False,Aatrox,Mordekaiser,Nautilus,Anivia,Nasus,Tryndamere,Kassadin,Ezreal,Shyvana,Nami,2,0,3,1,0,True,False,True,True,False
+3320842902,10.5.312.392,red,True,Leona,Ornn,Ekko,Malphite,Pyke,Vayne,Aphelios,Soraka,Sylas,Garen,10,3,2,1,2,False,True,False,False,True
+3320842901,10.5.312.392,blue,True,Ornn,Xerath,Draven,Nautilus,Zac,Urgot,Vayne,Nami,Jarvan IV,Anivia,4,0,2,0,0,False,False,False,False,False
+3320842901,10.5.312.392,red,False,Nautilus,Kayn,Darius,Aphelios,Katarina,Senna,Pyke,Nunu & Willump,Ryze,Irelia,1,0,1,1,0,True,False,True,True,False
+3320842886,10.5.312.392,blue,True,Sett,Ekko,Blitzcrank,Kassadin,Master Yi,Pyke,Shaco,Fiora,Taliyah,Senna,11,3,3,1,0,True,True,True,True,False
+3320842886,10.5.312.392,red,False,Master Yi,Shyvana,Darius,Blitzcrank,Ornn,Malphite,Gragas,Talon,Kai'Sa,Lulu,4,0,1,0,0,False,False,False,False,False
+3320842878,10.5.312.392,blue,False,Lee Sin,Sett,Ekko,Garen,Lucian,Veigar,Nasus,Senna,Master Yi,Taric,2,0,0,0,0,False,False,False,False,False
+3320842878,10.5.312.392,red,True,Diana,Sett,Thresh,Yuumi,Yasuo,Leona,Ahri,Ashe,Jax,Maokai,8,1,3,1,1,True,True,True,True,True
+3320842870,10.5.312.392,blue,False,Malzahar,Garen,Lee Sin,Talon,Blitzcrank,Lulu,Twitch,Sett,Nautilus,Caitlyn,7,1,1,1,0,True,True,False,True,False
+3320842870,10.5.312.392,red,True,Darius,Senna,Master Yi,Yasuo,Olaf,Jhin,Brand,Viktor,Kindred,Malphite,4,1,3,0,1,False,False,True,False,True
+3320842865,10.5.312.392,blue,True,Rek'Sai,Vayne,Diana,Varus,Sett,Kai'Sa,Yasuo,Rengar,Zyra,Jax,10,3,4,0,0,True,True,True,False,False
+3320842865,10.5.312.392,red,False,Talon,Pyke,Warwick,Diana,Ornn,Darius,Udyr,Kassadin,Morgana,Tristana,1,0,0,0,0,False,False,False,False,False
+3320842859,10.5.312.392,blue,True,Jax,Nautilus,Morgana,Sett,Yasuo,Master Yi,Mordekaiser,Lissandra,Ezreal,Galio,11,3,3,1,1,True,True,True,True,True
+3320842859,10.5.312.392,red,False,Blitzcrank,Ornn,Leona,Yasuo,Sejuani,Pyke,Kai'Sa,Kassadin,Garen,Xin Zhao,1,0,1,0,0,False,False,False,False,False
+3320842858,10.5.312.392,blue,True,Senna,Ahri,Morgana,Ornn,Miss Fortune,Lucian,Braum,Syndra,Rengar,Renekton,11,4,4,1,1,True,True,True,True,True
+3320842858,10.5.312.392,red,False,Master Yi,Soraka,Malzahar,Vayne,Nautilus,Zed,Darius,Nasus,Jinx,Thresh,1,0,0,0,0,False,False,False,False,False
+3320842857,10.5.312.392,blue,False,Fizz,Kayn,Amumu,Veigar,Kai'Sa,Nami,Yasuo,Cho'Gath,Shaco,Lucian,4,0,1,0,0,True,False,False,False,False
+3320842857,10.5.312.392,red,True,Tryndamere,Ashe,Leona,Sett,Master Yi,Jax,Teemo,Ornn,Morgana,Senna,11,4,5,0,1,False,True,True,False,True
+3320842850,10.5.312.392,blue,True,Master Yi,Caitlyn,Garen,Quinn,Malzahar,Zed,Vayne,Trundle,Nami,Heimerdinger,8,2,3,2,2,True,True,True,True,True
+3320842850,10.5.312.392,red,False,Morgana,Sett,Master Yi,Ornn,Blitzcrank,Darius,Tahm Kench,Senna,Corki,Teemo,1,0,2,0,0,False,False,False,False,False
+3320842845,10.5.312.392,blue,True,Darius,Diana,Brand,Veigar,Fizz,Jarvan IV,Orianna,Kayle,Ezreal,Bard,8,1,2,1,0,True,True,True,True,False
+3320842845,10.5.312.392,red,False,Pyke,Ashe,Senna,Mordekaiser,Ornn,LeBlanc,Garen,Miss Fortune,Rek'Sai,Nautilus,3,0,1,0,0,False,False,False,False,False
+3320842839,10.5.312.392,blue,True,Olaf,Yasuo,Senna,Tryndamere,Yuumi,Bard,Shen,Cassiopeia,Jinx,Rengar,11,3,3,2,0,True,True,True,True,False
+3320842839,10.5.312.392,red,False,Shaco,,Sett,Aphelios,Qiyana,LeBlanc,Miss Fortune,Lux,Master Yi,Mordekaiser,0,0,0,0,0,False,False,False,False,False
+3320842836,10.5.312.392,blue,False,Ashe,Evelynn,Ornn,Sett,Morgana,Teemo,Jhin,Skarner,Blitzcrank,Aphelios,3,0,1,0,0,False,False,False,False,False
+3320842836,10.5.312.392,red,True,Nautilus,Tryndamere,Zyra,Lee Sin,Garen,Kha'Zix,Ryze,Irelia,Nami,Draven,10,2,3,1,2,True,True,True,True,True
+3320842835,10.5.312.392,blue,True,Jhin,Diana,Thresh,,Tryndamere,Darius,Master Yi,Zed,Lux,Aphelios,11,3,4,2,1,True,True,True,True,True
+3320842835,10.5.312.392,red,False,,Garen,Jhin,Yasuo,Vi,Orianna,Senna,Sivir,Zac,Gangplank,1,0,0,0,0,False,False,False,False,False
+3320842823,10.5.312.392,blue,False,Garen,Miss Fortune,Senna,Yasuo,Shaco,Braum,Ekko,Ezreal,Talon,Teemo,1,0,1,0,0,False,False,False,False,False
+3320842823,10.5.312.392,red,True,Zed,Master Yi,Caitlyn,Rengar,Sett,Kayn,Wukong,Jinx,Mordekaiser,Kassadin,6,0,2,1,0,True,False,True,True,False
+3320842818,10.5.312.392,blue,True,Blitzcrank,Sett,Ashe,Shaco,Fizz,Katarina,Illaoi,Leona,Varus,Shyvana,6,1,3,0,1,False,False,True,False,True
+3320842818,10.5.312.392,red,False,Dr. Mundo,Blitzcrank,Diana,Yasuo,Garen,Senna,Jhin,Orianna,Darius,Lee Sin,11,3,2,2,0,True,True,False,True,False
+3320842813,10.5.312.392,blue,True,Camille,Aphelios,Lee Sin,Yasuo,Darius,Miss Fortune,Thresh,Ornn,Qiyana,Evelynn,9,2,2,1,1,False,False,False,True,False
+3320842813,10.5.312.392,red,False,Fizz,Ekko,,Master Yi,Zyra,Zoe,Caitlyn,Pyke,Rek'Sai,Teemo,6,1,4,0,1,True,True,True,False,True
+3320842812,10.5.312.392,blue,False,Pyke,Ekko,Sett,Master Yi,Yasuo,Ornn,Miss Fortune,Morgana,Amumu,Zed,1,0,0,1,0,False,False,False,True,False
+3320842812,10.5.312.392,red,True,Yasuo,Diana,Xerath,Blitzcrank,Camille,Nautilus,Jinx,Jarvan IV,Garen,Heimerdinger,10,2,4,0,0,True,True,True,False,False
+3320842803,10.5.312.392,blue,False,Jarvan IV,Blitzcrank,Sett,Zed,Vladimir,Nasus,Hecarim,Ahri,Annie,Lucian,5,1,3,1,0,True,True,True,False,False
+3320842803,10.5.312.392,red,True,Master Yi,Lee Sin,Yasuo,Blitzcrank,Garen,Pyke,Yuumi,Renekton,Miss Fortune,Amumu,10,2,1,1,1,False,False,False,True,True
+3320842797,10.5.312.392,blue,True,Diana,Miss Fortune,Evelynn,Aphelios,Sett,Fizz,Olaf,Teemo,Jinx,Brand,9,3,3,0,1,False,True,True,False,False
+3320842797,10.5.312.392,red,False,Camille,Renekton,Lee Sin,Miss Fortune,Katarina,Garen,Rek'Sai,Yasuo,Lucian,Braum,6,0,3,2,1,True,False,False,True,True
+3320842791,10.5.312.392,blue,False,Yasuo,Zilean,Swain,Darius,Renekton,Kai'Sa,Kindred,Lux,Aatrox,Veigar,0,0,0,0,0,False,False,False,False,False
+3320842791,10.5.312.392,red,True,Sett,Zed,Yasuo,Fizz,Caitlyn,Varus,Brand,Ahri,Garen,Kha'Zix,11,4,4,1,1,True,True,True,True,True
+3320842788,10.5.312.392,blue,True,Master Yi,Sett,Caitlyn,Morgana,Diana,Mordekaiser,Anivia,Leona,Lucian,Graves,9,3,3,2,0,True,True,False,True,False
+3320842788,10.5.312.392,red,False,Dr. Mundo,Taric,Shen,Hecarim,Nautilus,Vayne,Nami,Vladimir,Garen,Nunu & Willump,1,0,1,0,0,False,False,True,False,False
+3320842786,10.5.312.392,blue,False,Illaoi,Senna,Morgana,Mordekaiser,Fizz,Twisted Fate,Hecarim,Garen,Lucian,Nautilus,0,0,0,0,0,False,False,False,False,False
+3320842786,10.5.312.392,red,True,Zed,Pyke,Mordekaiser,Jax,Miss Fortune,Veigar,Draven,Karthus,Darius,Jhin,0,0,0,0,0,False,False,False,False,False
+3320842774,10.5.312.392,blue,True,Nasus,Caitlyn,Yasuo,Sett,Kassadin,Trundle,Ahri,Karma,Teemo,Ezreal,8,1,2,1,1,True,False,True,True,True
+3320842774,10.5.312.392,red,False,Pyke,Master Yi,Shaco,Vladimir,Blitzcrank,Ekko,Zed,Kennen,Lux,Jhin,6,1,3,0,1,False,True,False,False,False
+3320842770,10.5.312.392,blue,True,Akali,Dr. Mundo,Caitlyn,Garen,Blitzcrank,Brand,Ahri,Gnar,Heimerdinger,Lee Sin,8,1,3,1,0,True,True,True,True,False
+3320842770,10.5.312.392,red,False,Nasus,Master Yi,Yasuo,Katarina,Miss Fortune,Trundle,Tahm Kench,Kennen,Kayle,Xayah,0,0,0,0,0,False,False,False,False,False
+3320842766,10.5.312.392,blue,True,Yasuo,Diana,Morgana,Fizz,Zed,Neeko,Mordekaiser,Jhin,Nasus,Vel'Koz,9,2,2,1,1,False,True,False,False,True
+3320842766,10.5.312.392,red,False,Sett,Fiora,Caitlyn,,Nautilus,Aatrox,Ekko,Olaf,Xayah,Rakan,2,0,1,1,0,True,False,True,True,False
+3320842765,10.5.312.392,blue,False,Ekko,Brand,Aphelios,Master Yi,Zoe,Nami,Fizz,Alistar,Trundle,Caitlyn,0,0,0,1,0,False,False,False,True,False
+3320842765,10.5.312.392,red,True,Darius,Blitzcrank,Lee Sin,Soraka,Garen,Veigar,Kha'Zix,Pantheon,Urgot,Thresh,11,3,1,0,0,True,True,True,False,False
+3320842764,10.5.312.392,blue,False,Rengar,Vladimir,Jax,Nasus,Blitzcrank,Senna,Kindred,Miss Fortune,Renekton,Talon,4,0,2,0,0,False,False,True,False,False
+3320842764,10.5.312.392,red,True,Zed,Dr. Mundo,Leona,Ashe,Illaoi,Garen,Zyra,Yasuo,Kayn,Jhin,11,3,2,0,0,True,True,False,False,False
+3320842763,10.5.312.392,blue,True,Darius,Nautilus,Jax,Aphelios,Diana,Mordekaiser,Caitlyn,Graves,Sona,Nocturne,10,3,2,1,0,True,True,True,True,False
+3320842763,10.5.312.392,red,False,Ekko,Diana,Vladimir,Master Yi,Zed,Sett,Katarina,Vayne,Nami,Evelynn,3,0,2,0,1,False,False,False,False,True
+3320842760,10.5.312.392,blue,False,Yasuo,Darius,Kai'Sa,Malphite,Soraka,Sett,Maokai,Aphelios,Evelynn,Tryndamere,5,0,0,1,0,True,False,False,False,False
+3320842760,10.5.312.392,red,True,Zac,Master Yi,Pyke,,Yasuo,Amumu,Teemo,Cho'Gath,Miss Fortune,Yuumi,7,1,4,1,1,False,True,True,True,True
+3320842758,10.5.312.392,blue,True,Nautilus,Caitlyn,Leona,Sett,Diana,Karma,Varus,Kassadin,Lee Sin,Kha'Zix,0,0,0,0,0,False,False,False,False,False
+3320842758,10.5.312.392,red,False,Darius,Shaco,Yasuo,Alistar,Master Yi,Teemo,Aphelios,Ekko,Rek'Sai,Thresh,0,0,0,0,0,False,False,False,False,False
+3320842755,10.5.312.392,blue,True,Garen,Zed,Teemo,Aphelios,Blitzcrank,Cho'Gath,Vladimir,Vayne,Janna,Shyvana,8,1,3,1,1,True,True,True,True,False
+3320842755,10.5.312.392,red,False,Blitzcrank,Sett,Katarina,Leona,Senna,Veigar,Pyke,Gangplank,Dr. Mundo,Master Yi,6,1,2,0,1,False,False,False,False,True
+3320842754,10.5.312.392,blue,True,Sett,,Nautilus,Leona,Aphelios,Cassiopeia,Kai'Sa,Darius,Zilean,Warwick,9,2,2,1,2,False,True,False,True,True
+3320842754,10.5.312.392,red,False,Fiora,Zac,Leona,Sylas,Yasuo,Kled,Mordekaiser,Ezreal,Lux,Thresh,2,0,2,0,0,True,False,True,False,False
+3320842749,10.5.312.392,blue,False,Shaco,Morgana,Yasuo,Master Yi,Pyke,Vayne,Elise,Urgot,Ahri,Zyra,1,0,0,0,0,False,False,False,False,False
+3320842749,10.5.312.392,red,True,Master Yi,Illaoi,Caitlyn,Aphelios,Yasuo,Vi,Darius,Draven,Thresh,Katarina,7,1,5,2,1,True,True,True,True,True
+3320842741,10.5.312.392,blue,True,Diana,Mordekaiser,Senna,Xin Zhao,Lulu,Nasus,Twisted Fate,Pyke,Kha'Zix,Yasuo,4,0,1,1,0,True,False,False,False,False
+3320842741,10.5.312.392,red,False,Olaf,Sett,Zyra,Blitzcrank,Master Yi,Fiora,Caitlyn,Rumble,Jarvan IV,Leona,1,0,2,1,0,False,False,True,True,False
+3320842725,10.5.312.392,blue,True,Sett,Olaf,Aphelios,Brand,Veigar,Nami,Kindred,Ezreal,Galio,Dr. Mundo,11,4,4,0,1,True,True,False,False,False
+3320842725,10.5.312.392,red,False,Fizz,Soraka,Darius,Yasuo,Master Yi,Corki,Garen,Syndra,Lee Sin,Pyke,5,0,2,0,1,False,False,True,False,True
+3320842722,10.5.312.392,blue,False,Warwick,Sylas,Draven,Mordekaiser,Zed,Kled,Olaf,Aphelios,Leona,Ekko,7,0,3,0,0,True,False,True,False,False
+3320842722,10.5.312.392,red,True,Draven,Master Yi,Caitlyn,Vladimir,Veigar,Nunu & Willump,Lulu,LeBlanc,Talon,Ashe,5,1,3,2,2,False,True,False,True,True
+3320842714,10.5.312.392,blue,True,Garen,Ekko,Blitzcrank,Zed,Diana,Jax,Sylas,Bard,Senna,Kayn,10,2,3,1,0,True,True,True,True,False
+3320842714,10.5.312.392,red,False,Illaoi,Shaco,Kassadin,Nautilus,Morgana,Katarina,Vayne,Pyke,Renekton,Sejuani,3,0,2,1,1,False,False,False,False,True
+3320842711,10.5.312.392,blue,False,Nocturne,Miss Fortune,Illaoi,Morgana,Yasuo,Leona,Nasus,Caitlyn,Shyvana,Zed,1,0,1,0,0,False,False,False,False,False
+3320842711,10.5.312.392,red,True,Sett,Teemo,Ornn,Master Yi,Mordekaiser,Lux,Zyra,Tryndamere,Hecarim,Ezreal,5,0,2,1,0,True,False,True,True,False
+3320842701,10.5.312.392,blue,True,Rammus,Jax,Yasuo,Sett,Warwick,Brand,Orianna,Master Yi,Xin Zhao,Urgot,10,2,3,1,0,True,True,False,True,False
+3320842701,10.5.312.392,red,False,Jarvan IV,Ahri,Senna,Aphelios,,Aatrox,Ezreal,Shyvana,Morgana,Fizz,0,0,1,0,1,False,False,True,False,True
+3320842699,10.5.312.392,blue,False,Yasuo,Senna,Garen,Draven,Master Yi,Quinn,Zed,Sona,Miss Fortune,Amumu,0,0,0,0,0,False,False,False,False,False
+3320842699,10.5.312.392,red,True,Darius,Blitzcrank,Morgana,Aphelios,Fiora,Warwick,Yorick,Ekko,Tahm Kench,Ashe,6,1,3,2,1,True,True,True,True,True
+3320842696,10.5.312.392,blue,False,Diana,Nautilus,Senna,Akali,Master Yi,Syndra,Vi,Vayne,Darius,Lux,7,1,2,2,0,True,True,True,True,False
+3320842696,10.5.312.392,red,True,Blitzcrank,Zed,Nautilus,Teemo,Warwick,Thresh,Ashe,Nasus,Kassadin,Kayn,4,0,4,0,1,False,False,False,False,True
+3320842694,10.5.312.392,blue,False,Mordekaiser,Kayn,Yasuo,Blitzcrank,Nocturne,Shyvana,Varus,Sion,Yuumi,Ryze,0,0,0,0,0,False,False,False,False,False
+3320842694,10.5.312.392,red,True,Pyke,Aphelios,Darius,Sett,Ekko,Swain,LeBlanc,Caitlyn,Fiora,Olaf,7,1,3,2,0,True,True,True,True,False
+3320842692,10.5.312.392,blue,True,Talon,Sett,Ezreal,Brand,Illaoi,Caitlyn,Udyr,Ekko,Ornn,Lux,7,1,2,1,0,False,True,False,False,False
+3320842692,10.5.312.392,red,False,Kassadin,Yasuo,Miss Fortune,Fiora,Sett,Master Yi,Thresh,Jinx,Galio,Zac,4,0,2,1,0,True,False,True,True,False
+3320842676,10.5.312.392,blue,False,Soraka,Morgana,Ekko,Talon,Aphelios,Malphite,Akali,Nami,Sylas,Ezreal,0,0,0,0,0,False,False,False,False,False
+3320842676,10.5.312.392,red,True,Diana,Braum,Yuumi,Darius,Master Yi,Renekton,Fizz,Lux,Caitlyn,Sett,9,1,3,2,0,True,True,True,True,False
+3320842667,10.5.312.392,blue,True,Garen,Mordekaiser,Sett,Veigar,Nocturne,Sona,Urgot,Jinx,Ekko,Master Yi,11,3,4,2,1,True,True,True,True,True
+3320842667,10.5.312.392,red,False,Yasuo,Darius,Aphelios,Senna,Tryndamere,Jax,Tristana,Lux,Zed,Xin Zhao,2,0,0,0,0,False,False,False,False,False
+3320842659,10.5.312.392,blue,True,Garen,Yasuo,Sylas,Darius,Morgana,Ashe,Mordekaiser,Akali,Yuumi,Olaf,7,1,2,2,1,True,True,True,True,True
+3320842659,10.5.312.392,red,False,Blitzcrank,Master Yi,Darius,Zilean,Ahri,Fizz,Miss Fortune,Lux,Sett,Nocturne,4,0,2,0,0,False,False,False,False,False
+3320842658,10.5.312.392,blue,False,Ekko,Leona,Darius,Yuumi,Cassiopeia,Tahm Kench,Garen,Senna,Lissandra,Kha'Zix,1,0,0,0,0,False,False,False,False,False
+3320842658,10.5.312.392,red,True,Fizz,Miss Fortune,Jax,Katarina,Ekko,Karma,Jhin,Ahri,Camille,Lee Sin,11,3,3,1,1,True,True,True,True,True
+3320842655,10.5.312.392,blue,True,Draven,Ekko,Blitzcrank,Kassadin,Mordekaiser,Aatrox,Sylas,Zyra,Rammus,Caitlyn,10,2,4,0,0,True,True,True,False,False
+3320842655,10.5.312.392,red,False,Darius,Fizz,Illaoi,Senna,Sett,Janna,Garen,Taliyah,Diana,Kai'Sa,5,0,1,0,1,False,False,False,False,True
+3320842648,10.5.312.392,blue,True,Vayne,Miss Fortune,Master Yi,Pyke,Diana,Jhin,Lux,Leona,Vi,Renekton,9,2,3,2,0,True,True,True,True,False
+3320842648,10.5.312.392,red,False,Nautilus,Ahri,Aatrox,Morgana,Mordekaiser,Akali,Xin Zhao,Warwick,Yuumi,Sett,2,0,0,0,0,False,False,False,False,False
+3320842645,10.5.312.392,blue,False,Morgana,Fizz,Shaco,,Vladimir,Amumu,Vayne,Pyke,Jax,Ahri,4,1,2,1,0,False,True,True,True,False
+3320842645,10.5.312.392,red,True,Vi,Shaco,Darius,Nocturne,Senna,Ezreal,Thresh,Garen,Cho'Gath,Kindred,11,2,2,0,1,True,False,False,False,True
+3320842642,10.5.312.392,blue,True,Olaf,Akali,Morgana,Master Yi,Yasuo,Taric,Caitlyn,Darius,Rek'Sai,Ekko,3,0,1,1,0,True,False,True,True,False
+3320842642,10.5.312.392,red,False,Cassiopeia,Pyke,Senna,Mordekaiser,Kassadin,Lissandra,Quinn,Kai'Sa,Sett,Diana,0,0,0,0,0,False,False,False,False,False
+3320842628,10.5.312.392,blue,True,Ekko,Aphelios,Tryndamere,Morgana,Darius,Malphite,Mordekaiser,Sylas,Caitlyn,Ahri,10,3,3,2,1,True,True,False,True,True
+3320842628,10.5.312.392,red,False,Sett,Master Yi,Riven,Aphelios,Talon,Vel'Koz,Jarvan IV,Garen,Senna,Vayne,3,0,2,0,1,False,False,True,False,False
+3320842616,10.5.312.392,blue,False,Mordekaiser,Kassadin,Master Yi,Tryndamere,Rengar,Sett,Vel'Koz,Evelynn,Kha'Zix,Blitzcrank,5,1,3,1,0,False,False,False,True,False
+3320842616,10.5.312.392,red,True,Lux,Senna,Teemo,Malzahar,Master Yi,Yasuo,Yuumi,Fiora,Syndra,Nunu & Willump,9,3,3,0,1,True,True,True,False,True
+3320842608,10.5.312.392,blue,True,Master Yi,Teemo,Ekko,Vi,Yasuo,Kayn,Morgana,Garen,Ashe,Neeko,6,1,2,0,0,False,True,False,False,False
+3320842608,10.5.312.392,red,False,Nautilus,Olaf,Fiora,Blitzcrank,Jhin,Sion,Galio,Kai'Sa,Diana,Warwick,2,0,1,1,1,True,False,True,True,True
+3320842601,10.5.312.392,blue,False,Aphelios,Morgana,Nautilus,Garen,Fizz,Pyke,Renekton,Lucian,Lux,Warwick,5,0,2,1,0,True,False,True,True,False
+3320842601,10.5.312.392,red,True,Mordekaiser,Soraka,Garen,Kayn,Cassiopeia,Heimerdinger,Vel'Koz,Sett,Vayne,Shaco,11,4,3,0,3,False,True,False,False,True
+3320842599,10.5.312.392,blue,True,Quinn,Fizz,Caitlyn,Brand,Warwick,Nautilus,Xin Zhao,Fiora,Syndra,Kai'Sa,9,2,2,1,0,True,True,True,True,False
+3320842599,10.5.312.392,red,False,Kayn,Blitzcrank,Annie,Nasus,Zed,Cho'Gath,Morgana,Leona,Senna,Lee Sin,0,0,0,0,0,False,False,False,False,False
+3320842598,10.5.312.392,blue,True,Tryndamere,Leona,Lee Sin,Nautilus,Viktor,Zac,Pyke,Katarina,Ezreal,Yorick,11,4,4,0,0,True,True,True,False,False
+3320842598,10.5.312.392,red,False,Blitzcrank,Nautilus,Master Yi,Xayah,Yasuo,Kha'Zix,Zoe,Senna,Swain,Renekton,5,0,0,1,1,False,False,False,True,True
+3320842592,10.5.312.392,blue,True,Zed,,Miss Fortune,Trundle,Blitzcrank,Janna,Jarvan IV,Kassadin,Jhin,Rammus,8,2,2,0,1,False,False,False,False,True
+3320842592,10.5.312.392,red,False,Katarina,Ekko,Yasuo,Master Yi,Blitzcrank,Fiora,Senna,Ezreal,Sylas,Nunu & Willump,8,2,3,2,0,True,True,True,True,False
+3320842579,10.5.312.392,blue,True,Tryndamere,Blitzcrank,Sett,Master Yi,Yasuo,Garen,Nami,Ezreal,Sejuani,Katarina,7,1,2,0,1,False,True,False,False,True
+3320842579,10.5.312.392,red,False,Veigar,Darius,Talon,Jinx,Leona,Pyke,Rengar,Vladimir,Ornn,Miss Fortune,6,0,3,0,0,True,False,True,False,False
+3320842576,10.5.312.392,blue,True,Teemo,Brand,Sett,Yasuo,Master Yi,Corki,Caitlyn,Nocturne,Lux,Garen,7,2,2,1,0,True,True,False,True,False
+3320842576,10.5.312.392,red,False,Darius,Morgana,Elise,Senna,Ahri,Urgot,Warwick,Ziggs,Miss Fortune,Veigar,0,0,1,0,0,False,False,True,False,False
+3320842575,10.5.312.392,blue,True,Malzahar,Darius,Leona,Master Yi,Aphelios,Aatrox,Amumu,Tryndamere,Draven,Lux,9,1,4,0,2,False,False,False,False,True
+3320842575,10.5.312.392,red,False,Fizz,Jhin,Yuumi,Sett,Darius,Vi,Ziggs,Rakan,Garen,Tristana,5,1,3,1,1,True,True,True,True,False
+3320842572,10.5.312.392,blue,True,Sett,Fizz,Caitlyn,Ornn,Yorick,Jax,Ryze,Lucian,Braum,Tryndamere,10,2,3,0,1,True,True,True,False,True
+3320842572,10.5.312.392,red,False,Elise,Fiora,Aphelios,Yasuo,Blitzcrank,Leona,Urgot,Jhin,Master Yi,Malzahar,5,0,0,1,0,False,False,False,True,False
+3320842571,10.5.312.392,blue,False,Amumu,Evelynn,Diana,Shyvana,Ornn,Master Yi,Morgana,Yasuo,Kai'Sa,Renekton,2,0,2,1,0,True,False,True,True,False
+3320842571,10.5.312.392,red,True,Blitzcrank,Darius,,Yuumi,Diana,Camille,Wukong,Sylas,Jhin,Bard,8,1,2,1,1,False,True,False,False,True
+3320842565,10.5.312.392,blue,False,Master Yi,Yasuo,Ornn,Darius,Kha'Zix,Yorick,Veigar,Yuumi,Vel'Koz,Nunu & Willump,2,0,1,1,0,False,False,False,False,False
+3320842565,10.5.312.392,red,True,Diana,Darius,Master Yi,Morgana,Aphelios,Swain,Mordekaiser,Lee Sin,Lux,Jinx,8,3,3,1,1,True,True,True,True,True
+3320842551,10.5.312.392,blue,False,Rek'Sai,Swain,Yuumi,Sett,Illaoi,Zyra,Ezreal,Alistar,Evelynn,Lucian,0,0,0,0,0,False,False,False,False,False
+3320842551,10.5.312.392,red,True,Morgana,Dr. Mundo,Garen,Pyke,Fizz,Ekko,Leona,Vladimir,Talon,Miss Fortune,0,0,0,0,0,False,False,False,False,False
+3320842547,10.5.312.392,blue,False,Elise,Mordekaiser,Jax,Fizz,Leona,Zyra,Jhin,Master Yi,Kai'Sa,Nasus,2,0,2,0,0,False,False,False,False,False
+3320842547,10.5.312.392,red,True,Nautilus,Zoe,Aphelios,Tryndamere,Ekko,Kled,Heimerdinger,Gragas,Senna,Olaf,11,5,2,2,1,True,True,True,True,True
+3320842541,10.5.312.392,blue,True,Ekko,Darius,Aphelios,Diana,Evelynn,Xerath,Aatrox,Illaoi,Pyke,Ashe,3,0,2,1,0,True,False,True,True,False
+3320842541,10.5.312.392,red,False,Sett,Lulu,Katarina,Amumu,Darius,Garen,Yasuo,Lee Sin,Braum,Senna,0,0,0,0,0,False,False,False,False,False
+3320842529,10.5.312.392,blue,True,Fizz,Darius,Yasuo,Teemo,Garen,Amumu,Zed,Maokai,Lux,Varus,5,0,2,1,0,True,False,True,True,False
+3320842529,10.5.312.392,red,False,Morgana,Darius,Yasuo,Jax,Leona,Kayn,Senna,Yuumi,Diana,Sett,1,0,0,0,0,False,False,False,False,False
+3320842526,10.5.312.392,blue,False,Talon,Ekko,Leona,Darius,Nasus,Amumu,Malphite,Zed,Karma,Ezreal,0,0,0,0,0,False,False,False,False,False
+3320842526,10.5.312.392,red,True,Ashe,Thresh,Sett,Yasuo,Aphelios,Senna,Kayn,Diana,Lux,Tryndamere,5,0,3,1,0,True,False,True,True,False
+3320842518,10.5.312.392,blue,True,Darius,Diana,Master Yi,Morgana,Yuumi,Shen,Volibear,Syndra,Kalista,Nautilus,7,1,4,1,0,False,False,True,True,False
+3320842518,10.5.312.392,red,False,Cassiopeia,Sylas,Sett,Darius,Aphelios,Lee Sin,Malphite,Miss Fortune,Mordekaiser,Lulu,6,1,1,0,1,True,True,False,False,True
+3320842517,10.5.312.392,blue,False,Diana,Aphelios,Evelynn,Mordekaiser,Nautilus,Jinx,Volibear,Rammus,Pyke,Viktor,4,0,0,0,0,True,False,False,False,False
+3320842517,10.5.312.392,red,True,Brand,Garen,Yasuo,Sett,Senna,Ivern,Ahri,Leona,Kai'Sa,Morgana,8,1,3,0,0,False,True,True,False,False
+3320842511,10.5.312.392,blue,False,Pyke,Zyra,Yasuo,Sett,Master Yi,Kayle,Blitzcrank,Ezreal,Darius,Akali,3,0,1,0,0,False,False,True,False,False
+3320842511,10.5.312.392,red,True,Zac,Ahri,Master Yi,Sett,Leona,Taric,Ashe,Dr. Mundo,Malzahar,Amumu,9,2,2,0,1,True,True,False,False,True
+3320842510,10.5.312.392,blue,True,Yuumi,Vayne,Aphelios,Ekko,Sett,Kassadin,Zac,Morgana,Ezreal,Mordekaiser,9,2,3,0,1,True,True,False,False,False
+3320842510,10.5.312.392,red,False,Aphelios,Trundle,Tryndamere,Ornn,Fizz,Sejuani,Blitzcrank,Lucian,Garen,Vladimir,3,0,2,2,1,False,False,True,True,True
+3320842501,10.5.312.392,blue,False,Leona,Yasuo,Warwick,Fiora,Blitzcrank,Kled,Nautilus,Ezreal,Evelynn,Morgana,5,1,3,1,0,False,True,False,False,False
+3320842501,10.5.312.392,red,True,,Rengar,Vayne,Darius,Master Yi,Illaoi,Sett,Vel'Koz,Ashe,Nami,8,2,3,1,1,True,False,True,True,True
+3320842500,10.5.312.392,blue,False,Talon,Master Yi,Blitzcrank,Senna,Mordekaiser,Jarvan IV,Pyke,Aphelios,Diana,Malzahar,1,0,1,0,0,False,False,False,False,False
+3320842500,10.5.312.392,red,True,Master Yi,Leona,Garen,Teemo,Warwick,Sett,Cassiopeia,Heimerdinger,Vayne,Taric,6,0,2,2,0,True,False,True,True,False
+3320842497,10.5.312.392,blue,True,Blitzcrank,Ornn,Ekko,Zed,Aphelios,Brand,Veigar,Olaf,Darius,Yasuo,11,7,8,1,2,True,True,True,False,False
+3320842497,10.5.312.392,red,False,Sett,Leona,Teemo,Evelynn,Miss Fortune,Gangplank,Azir,Caitlyn,Swain,Master Yi,6,2,1,1,2,False,False,False,True,True
+3320842488,10.5.312.392,blue,True,Kayn,Master Yi,Sett,Aatrox,Zed,Ezreal,Soraka,Vel'Koz,Sejuani,Darius,0,0,0,0,0,False,False,False,False,False
+3320842488,10.5.312.392,red,False,Ahri,Sett,Fizz,Senna,Maokai,Thresh,Aphelios,Yorick,Lee Sin,Azir,0,0,0,0,0,False,False,False,False,False
+3320842478,10.5.312.392,blue,True,Jhin,Anivia,Mordekaiser,Ekko,Aphelios,Irelia,Kai'Sa,Yorick,Diana,Bard,8,2,4,1,0,True,True,True,False,False
+3320842478,10.5.312.392,red,False,Sett,Rengar,Senna,Renekton,Nautilus,Amumu,Tryndamere,Orianna,Vayne,Soraka,1,0,0,1,0,False,False,False,True,False
+3320842474,10.5.312.392,blue,True,Olaf,Tryndamere,Fizz,Aphelios,Mordekaiser,Vladimir,Garen,Leona,Ekko,Jhin,0,0,0,0,0,False,False,False,False,False
+3320842474,10.5.312.392,red,False,Senna,Rengar,Darius,LeBlanc,Blitzcrank,Caitlyn,Syndra,Veigar,Hecarim,Fiora,0,0,0,0,0,False,False,False,False,False
+3320842467,10.5.312.392,blue,True,Trundle,Kassadin,Nautilus,Malzahar,Mordekaiser,Draven,Yasuo,Heimerdinger,Singed,Zac,9,1,2,2,0,True,True,False,True,False
+3320842467,10.5.312.392,red,False,Vladimir,Yuumi,Leona,Sylas,Sett,Ezreal,Volibear,Aatrox,Viktor,Blitzcrank,0,0,1,0,0,False,False,True,False,False
+3320842460,10.5.312.392,blue,False,Vel'Koz,Ekko,Shaco,Nautilus,Ryze,Teemo,Galio,Vayne,Graves,Bard,3,0,0,1,0,True,False,False,True,False
+3320842460,10.5.312.392,red,True,Darius,Sett,Katarina,Blitzcrank,Senna,Thresh,Miss Fortune,Master Yi,Jax,Viktor,10,2,4,0,1,False,True,True,False,True
+3320842452,10.5.312.392,blue,True,Teemo,LeBlanc,Darius,Senna,Sett,Fizz,Jinx,Trundle,Olaf,Morgana,8,2,2,2,0,True,True,True,True,False
+3320842452,10.5.312.392,red,False,Master Yi,Annie,Darius,Blitzcrank,Yasuo,Garen,Tristana,Janna,Jax,Lux,0,0,1,0,0,False,False,False,False,False
+3320842443,10.5.312.392,blue,True,Sett,Syndra,Garen,Tryndamere,Nautilus,Malphite,Yasuo,Lulu,Vayne,Kha'Zix,8,1,2,2,0,True,True,True,True,False
+3320842443,10.5.312.392,red,False,Garen,Master Yi,Darius,Vladimir,Diana,Gnar,Poppy,Veigar,Swain,Sylas,1,0,1,0,0,False,False,False,False,False
+3320842438,10.5.312.392,blue,True,Veigar,Diana,Fiora,Master Yi,Brand,Jinx,Alistar,Jax,Fizz,Mordekaiser,8,1,2,1,0,True,True,True,True,False
+3320842438,10.5.312.392,red,False,Shaco,Illaoi,Teemo,Camille,Blitzcrank,Ekko,Yuumi,Kai'Sa,Yasuo,Volibear,0,0,0,0,0,False,False,False,False,False
+3320842425,10.5.312.392,blue,False,Yasuo,Darius,Brand,Vayne,Olaf,Draven,Braum,Lux,Garen,Lee Sin,4,1,1,0,1,False,True,False,False,True
+3320842425,10.5.312.392,red,True,Aphelios,Fizz,Darius,Caitlyn,,Tristana,Nautilus,Dr. Mundo,Sylas,Shyvana,8,1,4,0,1,True,False,True,False,False
+3320842424,10.5.312.392,blue,False,Aatrox,Nocturne,Malzahar,Sett,Neeko,Sylas,Teemo,Zed,Ashe,Maokai,0,0,2,1,0,False,False,False,True,False
+3320842424,10.5.312.392,red,True,Master Yi,Nautilus,Yasuo,Mordekaiser,,Miss Fortune,Vel'Koz,Lux,Illaoi,Kayn,11,4,3,1,1,True,True,True,False,True
+3320842421,10.5.312.392,blue,True,Kassadin,Twisted Fate,Ornn,Lee Sin,Thresh,Pantheon,Taliyah,Caitlyn,Lux,Senna,8,1,2,1,1,False,False,False,False,True
+3320842421,10.5.312.392,red,False,Karthus,Fiora,Zac,Syndra,LeBlanc,Gragas,Quinn,Cassiopeia,Yuumi,Aphelios,7,1,3,1,0,True,True,True,True,False
+3320842420,10.5.312.392,blue,True,Master Yi,Darius,Blitzcrank,Ekko,Senna,Diana,Yasuo,Fiora,Tristana,Morgana,11,4,3,0,1,False,True,False,False,False
+3320842420,10.5.312.392,red,False,Master Yi,Thresh,Leona,Mordekaiser,Garen,Nami,Lucian,Sett,Skarner,Syndra,7,1,4,2,2,True,False,True,True,True
+3320842406,10.5.312.392,blue,True,Sylas,Swain,Diana,Katarina,Cassiopeia,Kindred,Bard,Kai'Sa,Syndra,Sett,5,0,3,1,0,False,False,True,False,False
+3320842406,10.5.312.392,red,False,Aphelios,Senna,Kassadin,Soraka,Yuumi,Darius,Ekko,Lucian,Nami,Malzahar,4,0,0,1,0,True,False,False,True,False
+3320842402,10.5.312.392,blue,True,Miss Fortune,Master Yi,Teemo,Olaf,Evelynn,Fizz,Vayne,Thresh,Nocturne,Volibear,6,0,2,1,0,True,False,True,True,False
+3320842402,10.5.312.392,red,False,Master Yi,Senna,Ezreal,Katarina,Darius,Ahri,Hecarim,Akali,Kai'Sa,Yuumi,0,0,0,0,0,False,False,False,False,False
+3320842401,10.5.312.392,blue,True,Darius,Aphelios,Pyke,Fizz,Lee Sin,Miss Fortune,Ornn,Zac,Vi,Blitzcrank,9,1,4,0,1,False,True,True,False,True
+3320842401,10.5.312.392,red,False,Diana,Aphelios,Nautilus,Rek'Sai,Leona,Morgana,Kai'Sa,Ekko,Kha'Zix,Karma,3,0,0,0,0,True,False,False,False,False
+3320842399,10.5.312.392,blue,True,Yasuo,Darius,Leona,Sett,Master Yi,Karma,Twitch,Mordekaiser,Viktor,Garen,10,2,2,0,1,False,True,False,False,True
+3320842399,10.5.312.392,red,False,Yasuo,Diana,Caitlyn,Nautilus,Fiora,Yuumi,Jarvan IV,Tristana,Aatrox,Kassadin,6,0,3,1,0,True,False,True,True,False
+3320842398,10.5.312.392,blue,False,Ashe,Brand,Fizz,Master Yi,Darius,Xin Zhao,Kassadin,Senna,Caitlyn,Sett,0,0,3,0,0,False,False,True,False,False
+3320842398,10.5.312.392,red,True,Mordekaiser,Lux,Pyke,Darius,Jinx,Nami,Veigar,Ryze,Tryndamere,Miss Fortune,8,2,0,0,0,True,True,False,False,False
+3320842387,10.5.312.392,blue,True,Aphelios,Zac,Darius,Fizz,Yuumi,Sivir,Bard,Janna,Talon,Warwick,9,2,3,2,0,True,True,True,True,False
+3320842387,10.5.312.392,red,False,Nautilus,Yasuo,Illaoi,Rammus,Morgana,Sett,Lee Sin,Jhin,Alistar,Annie,0,0,0,0,0,False,False,False,False,False
+3320842386,10.5.312.392,blue,True,Sylas,Katarina,Lee Sin,Leona,Teemo,Zilean,Renekton,Sivir,Viktor,Hecarim,11,4,3,1,1,True,True,True,False,True
+3320842386,10.5.312.392,red,False,Ekko,Yasuo,Ornn,Aphelios,Diana,Shen,Pyke,Jhin,Rengar,Braum,2,0,1,1,0,False,False,False,True,False
+3320842383,10.5.312.392,blue,True,Yasuo,Warwick,Tryndamere,Blitzcrank,Sylas,Caitlyn,Lux,Tristana,Shen,Vi,2,0,1,0,0,True,False,False,False,False
+3320842383,10.5.312.392,red,False,Aphelios,Yasuo,Darius,Shaco,Heimerdinger,Pyke,Draven,Master Yi,Illaoi,Wukong,0,0,1,0,0,False,False,True,False,False
+3320842382,10.5.312.392,blue,False,Fizz,Zed,Olaf,Garen,Diana,Sylas,Nautilus,Caitlyn,Warwick,Tahm Kench,0,0,0,0,0,False,False,False,False,False
+3320842382,10.5.312.392,red,True,Vladimir,Tryndamere,Leona,Shaco,Aphelios,Jinx,Darius,Pyke,Sett,Bard,3,0,2,2,0,True,False,True,True,False
+3320842374,10.5.312.392,blue,True,Yasuo,Sett,Ornn,Darius,Morgana,Ziggs,Ashe,Evelynn,Diana,Garen,4,0,1,1,0,True,False,False,True,False
+3320842374,10.5.312.392,red,False,Fiora,Darius,Sett,Fizz,Ekko,Galio,Jhin,Olaf,Tryndamere,Fiddlesticks,0,0,1,0,0,False,False,True,False,False
+3320842372,10.5.312.392,blue,True,Sivir,Kalista,Sett,Urgot,Malphite,Jhin,Taliyah,Blitzcrank,Garen,Zed,9,2,1,0,0,True,True,False,False,False
+3320842372,10.5.312.392,red,False,Morgana,Fizz,Brand,Akali,Xerath,Vi,Kassadin,Kai'Sa,Sylas,Nautilus,4,0,2,1,1,False,False,True,True,True
+3320842354,10.5.312.392,blue,False,Garen,Zyra,Pyke,Zed,Olaf,Graves,Sett,Lux,Vel'Koz,Miss Fortune,3,0,2,0,0,True,False,True,False,False
+3320842354,10.5.312.392,red,True,Garen,Yasuo,Blitzcrank,Nocturne,Dr. Mundo,Singed,Nautilus,Varus,Zac,Malzahar,7,0,2,1,0,False,False,False,True,False
+3320842351,10.5.312.392,blue,False,Morgana,Darius,Tryndamere,Yasuo,Aphelios,Thresh,Caitlyn,Fizz,Kayn,Cho'Gath,6,1,1,1,1,True,True,True,True,True
+3320842351,10.5.312.392,red,True,Yasuo,Zed,Tristana,Garen,Shaco,Sett,Ryze,Ekko,Malphite,Miss Fortune,9,1,5,0,1,False,False,False,False,False
+3320842348,10.5.312.392,blue,True,Kassadin,Miss Fortune,Zoe,Ekko,Senna,Xerath,Sett,Rammus,Lucian,Thresh,8,1,2,0,1,False,True,False,False,True
+3320842348,10.5.312.392,red,False,Diana,Yasuo,Sylas,Aphelios,Darius,Vi,Cassiopeia,Garen,Caitlyn,Zilean,3,0,2,1,0,True,False,True,True,False
+3320842345,10.5.312.392,blue,False,Sett,Master Yi,Cassiopeia,Vayne,Morgana,Jarvan IV,Poppy,Jhin,Sylas,Yuumi,1,0,2,0,0,False,False,False,False,False
+3320842345,10.5.312.392,red,True,Fiora,Ekko,Master Yi,Lee Sin,Taric,Zilean,Darius,Kayn,Caitlyn,Lux,8,1,2,0,1,True,True,True,False,True
+3320842344,10.5.312.392,blue,True,Caitlyn,Diana,Ornn,Vayne,Sett,Taric,Rammus,Senna,Kayle,Zed,7,1,4,0,0,False,True,True,False,False
+3320842344,10.5.312.392,red,False,Fiora,Aphelios,Ornn,Karthus,Ekko,Lissandra,Illaoi,Miss Fortune,Master Yi,Leona,3,0,0,1,0,True,False,False,True,False
+3320842338,10.5.312.392,blue,True,Warwick,Yasuo,Leona,Vayne,Teemo,Vi,Lux,Tryndamere,Ornn,Senna,10,2,3,0,1,False,True,True,False,True
+3320842338,10.5.312.392,red,False,Vel'Koz,Ashe,Garen,Yasuo,Aatrox,Blitzcrank,Master Yi,Trundle,Kai'Sa,Pantheon,4,0,2,2,0,True,False,False,True,False
+3320842333,10.5.312.392,blue,True,Zed,Diana,Darius,Akali,Nautilus,Bard,Lee Sin,Ekko,Varus,Sylas,8,2,4,1,1,True,True,True,True,True
+3320842333,10.5.312.392,red,False,Yuumi,Yasuo,Talon,Nocturne,Sett,Fiora,Vladimir,Vi,Leona,Jinx,4,0,1,0,0,False,False,False,False,False
+3320842321,10.5.312.392,blue,True,Sett,Hecarim,Bard,Fizz,Nautilus,Annie,Aphelios,Lucian,Warwick,Blitzcrank,10,4,2,1,2,False,True,True,True,True
+3320842321,10.5.312.392,red,False,Master Yi,Jax,Sett,Yasuo,Garen,Darius,Shaco,Rek'Sai,Mordekaiser,Ahri,3,0,4,0,1,True,False,False,False,False
+3320842320,10.5.312.392,blue,True,Blitzcrank,,Leona,Cassiopeia,Mordekaiser,Karthus,Lux,Olaf,Pyke,Jhin,1,0,2,1,0,True,False,True,True,False
+3320842320,10.5.312.392,red,False,Evelynn,Darius,Miss Fortune,Diana,Draven,Lulu,Jax,Caitlyn,Malphite,Yasuo,0,0,0,0,0,False,False,False,False,False
+3320842298,10.5.312.392,blue,False,Master Yi,Caitlyn,Sett,Miss Fortune,Blitzcrank,Pyke,Fizz,Garen,Xayah,Graves,0,0,0,0,0,False,False,False,False,False
+3320842298,10.5.312.392,red,True,Master Yi,Lux,Leona,Darius,Yasuo,Riven,Ashe,Syndra,Morgana,Olaf,3,0,3,2,0,True,False,True,True,False
+3320842291,10.5.312.392,blue,True,Nautilus,Diana,Nocturne,Leona,Aphelios,Yuumi,Jax,Miss Fortune,Ekko,Teemo,9,2,5,0,1,False,False,True,False,True
+3320842291,10.5.312.392,red,False,Master Yi,Sett,Talon,Garen,Yasuo,Irelia,Vi,Lux,Varus,Viktor,7,1,1,2,0,True,True,False,True,False
+3320842284,10.5.312.392,blue,False,Garen,Caitlyn,Diana,Aatrox,Darius,Lee Sin,Miss Fortune,Pyke,Vladimir,Twisted Fate,2,0,2,0,0,False,False,True,False,False
+3320842284,10.5.312.392,red,True,Yasuo,Blitzcrank,Mordekaiser,Senna,Yuumi,Lulu,Hecarim,Vayne,Renekton,Malzahar,11,3,2,2,1,True,True,False,True,True
+3320842280,10.5.312.392,blue,False,Rengar,Garen,Leona,Malzahar,Kassadin,Kha'Zix,Mordekaiser,Kai'Sa,Pyke,Vel'Koz,1,0,4,0,1,False,False,True,False,True
+3320842280,10.5.312.392,red,True,Jax,Elise,Darius,Jayce,Graves,Volibear,Ezreal,Sylas,Yuumi,Fiora,10,3,1,1,0,True,True,False,True,False
+3320842274,10.5.312.392,blue,False,Yuumi,Darius,Nautilus,Talon,Sona,Singed,Sylas,Jhin,Vel'Koz,Skarner,2,0,0,0,0,False,False,False,False,False
+3320842274,10.5.312.392,red,True,Yasuo,Ekko,Leona,Yuumi,Vladimir,Annie,Nocturne,Illaoi,Fiddlesticks,Ashe,11,3,4,2,1,True,True,True,True,True
+3320842271,10.5.312.392,blue,False,Zoe,Yorick,Master Yi,Malzahar,Senna,Lee Sin,Teemo,Kassadin,Caitlyn,Blitzcrank,7,1,1,1,2,True,True,True,True,True
+3320842271,10.5.312.392,red,True,Master Yi,Sylas,Sett,Aphelios,Elise,Shaco,Leona,Miss Fortune,Brand,Mordekaiser,4,1,5,0,0,False,False,False,False,False
+3320842269,10.5.312.392,blue,False,Talon,Yasuo,Ekko,Elise,Nautilus,Aphelios,Yuumi,Nocturne,Warwick,Kayle,0,0,0,0,0,False,False,False,False,False
+3320842269,10.5.312.392,red,True,Leona,Nautilus,Olaf,Diana,Miss Fortune,Darius,Rek'Sai,Kassadin,Lucian,Nami,5,1,2,1,0,True,True,True,True,False
+3320842254,10.5.312.392,blue,False,Sett,Darius,Diana,Jax,Leona,Kayn,Azir,Lucian,Vel'Koz,Varus,2,0,2,0,0,False,False,True,False,False
+3320842254,10.5.312.392,red,True,Nautilus,Morgana,Lee Sin,Yasuo,Darius,Miss Fortune,Blitzcrank,Garen,Kha'Zix,Tryndamere,7,0,1,1,0,True,False,False,True,False
+3320842247,10.5.312.392,blue,False,Blitzcrank,Ornn,Draven,Kayn,Zac,Renekton,Lux,Morgana,Kai'Sa,Fiddlesticks,4,0,2,1,0,False,False,False,True,False
+3320842247,10.5.312.392,red,True,Caitlyn,Kassadin,Blitzcrank,Nautilus,Malphite,Vayne,Sona,Nocturne,Sylas,Katarina,9,1,4,1,1,True,True,True,False,True
+3320842246,10.5.312.392,blue,True,Pyke,Yasuo,Master Yi,Nami,Illaoi,Kayn,Aatrox,Lux,Leona,Caitlyn,9,1,3,1,1,False,True,False,False,True
+3320842246,10.5.312.392,red,False,Zoe,Garen,Sett,Miss Fortune,,Singed,Syndra,Akali,Olaf,Sylas,4,0,1,1,0,True,False,True,True,False
+3320842242,10.5.312.392,blue,True,Warwick,Aphelios,Diana,Ornn,Jhin,Ziggs,Miss Fortune,Senna,Kalista,Lee Sin,9,1,4,1,0,True,True,True,True,False
+3320842242,10.5.312.392,red,False,Leona,Kassadin,Shaco,Aphelios,Master Yi,Xin Zhao,Anivia,Wukong,Kai'Sa,Lux,5,1,1,0,0,False,False,False,False,False
+3320842239,10.5.312.392,blue,False,,Morgana,Sett,Caitlyn,Jax,Taric,Darius,Aphelios,Master Yi,Malzahar,3,0,2,1,0,False,False,True,True,False
+3320842239,10.5.312.392,red,True,Ekko,Zed,Garen,Blitzcrank,Senna,Zac,Fiora,Zyra,Kai'Sa,Ahri,7,1,2,0,0,True,True,False,False,False
+3320842231,10.5.312.392,blue,True,Nautilus,Kassadin,Master Yi,Diana,Ornn,Tristana,Janna,Rumble,Katarina,Sejuani,2,0,3,1,0,True,False,True,True,False
+3320842231,10.5.312.392,red,False,Draven,Diana,Kled,Senna,Morgana,Twisted Fate,Maokai,Darius,Swain,Ekko,0,0,0,0,0,False,False,False,False,False
+3320842228,10.5.312.392,blue,False,Master Yi,Ashe,Yorick,Talon,Darius,Yasuo,Aphelios,Thresh,Warwick,Garen,1,0,1,0,0,False,False,False,False,False
+3320842228,10.5.312.392,red,True,Lux,Blitzcrank,Aatrox,Mordekaiser,Volibear,Ahri,Galio,Lucian,Nasus,Udyr,7,0,2,1,0,True,False,True,True,False
+3320842219,10.5.312.392,blue,True,Garen,Morgana,Ornn,Sett,Diana,Ashe,Thresh,Kayle,Talon,Evelynn,9,1,2,0,1,False,False,False,False,False
+3320842219,10.5.312.392,red,False,Sett,Zed,Senna,Master Yi,Veigar,Dr. Mundo,Bard,Fizz,Ivern,Syndra,9,4,3,0,1,True,True,True,False,True
+3320842209,10.5.312.392,blue,False,Ekko,Yuumi,Renekton,Yasuo,,Master Yi,Fizz,Miss Fortune,Sett,Zyra,0,0,0,0,0,False,False,False,False,False
+3320842209,10.5.312.392,red,True,Ekko,Pyke,Darius,Yuumi,Sylas,Syndra,Aphelios,Shaco,Fiora,Soraka,0,0,0,0,0,False,False,False,False,False
+3320842208,10.5.312.392,blue,False,Swain,Garen,Darius,Ornn,,Ezreal,Twisted Fate,Fiora,Nami,Malphite,5,1,1,0,0,True,False,False,False,False
+3320842208,10.5.312.392,red,True,Olaf,Blitzcrank,Yuumi,Senna,Sett,Warwick,Aphelios,Brand,Renekton,Qiyana,9,2,4,2,1,False,True,True,True,True
+3320842205,10.5.312.392,blue,True,Garen,Ekko,Darius,Fizz,Caitlyn,Vayne,Sett,Ahri,Nautilus,Gragas,9,2,4,0,1,False,True,True,False,True
+3320842205,10.5.312.392,red,False,Darius,Yuumi,Vladimir,Jhin,Master Yi,Neeko,Xayah,Tryndamere,Malzahar,Shyvana,4,0,0,1,0,True,False,False,True,False
+3320842188,10.5.312.392,blue,False,Yasuo,Aphelios,Blitzcrank,Pyke,Darius,Miss Fortune,Lux,Ahri,Shyvana,Garen,3,0,4,2,0,True,False,True,True,False
+3320842188,10.5.312.392,red,True,Senna,Katarina,Ornn,Master Yi,Thresh,Diana,Olaf,Kled,Kai'Sa,Yuumi,7,1,0,0,0,False,True,False,False,False
+3320842184,10.5.312.392,blue,False,Diana,Ornn,Senna,Leona,Fizz,Jax,Ekko,Talon,Bard,Ezreal,3,0,1,0,1,False,False,False,False,True
+3320842184,10.5.312.392,red,True,Tryndamere,Master Yi,Graves,Zed,Yasuo,Malzahar,Volibear,Warwick,Miss Fortune,Morgana,9,3,4,1,0,True,True,True,True,False
+3320842172,10.5.312.392,blue,True,Caitlyn,Diana,Rammus,Jax,Senna,Xin Zhao,Darius,Neeko,Vel'Koz,Kai'Sa,10,2,3,2,1,True,True,True,True,True
+3320842172,10.5.312.392,red,False,Master Yi,Kassadin,Aphelios,Teemo,Diana,Miss Fortune,Katarina,Garen,Olaf,Nautilus,0,0,0,0,0,False,False,False,False,False
+3320842163,10.5.312.392,blue,True,Master Yi,Taric,Morgana,Ekko,Darius,Sivir,Nautilus,Zac,Cassiopeia,Tryndamere,3,0,0,0,0,True,False,False,False,False
+3320842163,10.5.312.392,red,False,Miss Fortune,Master Yi,Sett,Elise,,Heimerdinger,Sejuani,Kassadin,Alistar,Jayce,0,0,2,0,0,False,False,True,False,False
+3320842146,10.5.312.392,blue,False,Vayne,Yasuo,Lee Sin,Illaoi,,Veigar,Yuumi,Nasus,Jinx,Jax,1,0,1,0,0,False,False,False,False,False
+3320842146,10.5.312.392,red,True,Yasuo,Master Yi,Pyke,Fiora,Aphelios,Shyvana,Draven,Darius,Blitzcrank,Ahri,9,1,2,1,0,True,True,True,True,False
